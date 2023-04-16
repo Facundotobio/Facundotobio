@@ -1,6 +1,9 @@
 # Hola 😃👋 sean bienvenidos a mi Github!
 
+Mi nombre es Facundo Tobio, soy técnico dental y aspirante a desarrollador web full stack.
+
 👨‍💻 Me encuentro trabajando de manera freelance en Hunteando como tester QA.
+
 🤓📚 Actualmente estoy aprendiendo TypeScript e Ingles de manera particular 
 
 # Acerca de mi:  💬 
