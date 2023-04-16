@@ -1,7 +1,7 @@
-# Hola a todos, sean bienvenidos a mi perfil de Github 👋
+# Hola 😃👋 sean bienvenidos a mi Github!
 
-    👨‍💻 Actualmente me encuentro trabajando de manera freelance en Hunteando como tester QA.
-  🤓📚 Actualmente estoy aprendiendo TypeScript e Ingles de manera particular 
+👨‍💻 Me encuentro trabajando de manera freelance en Hunteando como tester QA.
+🤓📚 Actualmente estoy aprendiendo TypeScript e Ingles de manera particular 
 
 # Acerca de mi:  💬 
 Me apasiona crear soluciones tecnológicas que mejoren la vida de las personas. Me siento motivado cuando puedo trabajar en equipo y colaborar con otros profesionales para alcanzar nuestros objetivos.
