@@ -15,7 +15,7 @@ Busco un equipo de trabajo donde pueda ser auténtico y recibir retroalimentaci�
 
 # ~ 𝘁𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝗾𝘂𝗲 𝗺𝗮𝗻𝗲𝗷𝗼 ~ 💻🖱
 <ul>
-![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/71de8592-9798-4fe5-a8c6-356adf2120fe)
+<li> ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/71de8592-9798-4fe5-a8c6-356adf2120fe) </li>
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/635df5cb-02ea-43c9-bd86-350bc17caaab)
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/80550929-9024-4e8b-a048-29e671d7095c)
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/ed8eaf7d-f347-4792-a651-1a221ad56a79)
