@@ -28,10 +28,3 @@
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/fd0309f9-8bc1-4c1b-9466-702ff757d3bc)
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/38d4dd66-fe1c-4e73-8400-e560e11f0359)
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/7653ad66-31e0-4fde-a8db-af5577acb7d3)
-
-
-# 𝗣𝗼𝗻𝗴𝗮𝗺𝗼𝗻𝗼𝘀 𝗲𝗻 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗼:  
-📫 𝘮𝘪 𝘦𝘮𝘢𝘪𝘭 𝘦𝘴 ===> facundohectortobio@gmail.com
-<br />
-![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/78d4f1a5-ee89-475e-8e7e-c21df8f2d367) ===> https://www.linkedin.com/in/facundo-tobio/
-
