@@ -16,12 +16,12 @@ Busco un equipo de trabajo donde pueda ser auténtico y recibir retroalimentaci�
 # ~ 𝘁𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝗾𝘂𝗲 𝗺𝗮𝗻𝗲𝗷𝗼 ~ 💻🖱
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/71de8592-9798-4fe5-a8c6-356adf2120fe)
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/635df5cb-02ea-43c9-bd86-350bc17caaab)
-![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/80550929-9024-4e8b-a048-29e671d7095c)
+<!-- ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/80550929-9024-4e8b-a048-29e671d7095c) -->
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/ed8eaf7d-f347-4792-a651-1a221ad56a79)
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/a0f9128c-b352-43fb-b8fe-4bee305fb247)
-![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/2cba8b15-82c2-465a-a8cc-13ecc3a3cb61)
+<!-- ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/2cba8b15-82c2-465a-a8cc-13ecc3a3cb61) -->
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/acbdbad7-afe3-408b-9a66-392334194dfe)
-![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/d9acd696-1176-4f86-b02d-f3abb86b775e)
+<!-- ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/d9acd696-1176-4f86-b02d-f3abb86b775e) -->
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/3ae1ae95-2d52-48a3-986c-54c3452916ab)
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/6f1929aa-16fd-4a28-bdb3-376e8ece558b)
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/fd0309f9-8bc1-4c1b-9466-702ff757d3bc)
