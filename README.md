@@ -40,4 +40,7 @@
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/fd0309f9-8bc1-4c1b-9466-702ff757d3bc"  width="50" height="50"/> </a>
 </div>
 
-<h3>Pongamonos en contacto, en la parte superior izquierda encontraras mi redes de contacto, no dudes en enviarme un mensaje, con gusto respondere... 😃</h3>
+<br />
+<br />
+
+<h3>Conversamos? En la parte superior izquierda encontraras mi redes de contacto, no dudes en enviarme un mensaje, con gusto responderé... 😃</h3>
