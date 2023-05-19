@@ -43,4 +43,4 @@
 <br />
 <br />
 
-<h3>Conversamos? En la parte superior izquierda encontraras mi redes de contacto, no dudes en enviarme un mensaje, con gusto responderé... 😃</h3>
+<h4>Conversamos? En la parte superior izquierda encontraras mi redes de contacto, no dudes en enviarme un mensaje, con gusto responderé... 😃</h4>
