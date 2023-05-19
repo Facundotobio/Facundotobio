@@ -1,14 +1,15 @@
 # Hola 😃👋 sean bienvenidos a mi Github!
 
-Mi nombre es Facundo Tobio, soy técnico dental y aspirante a desarrollador web full stack.
+Mi nombre es Facundo Tobio, soy técnico dental graduado de la UNLP, con conocimientos en el área de testing de software y aspirante a desarrollador web full stack.
 
-👨‍💻 Me encuentro trabajando de manera freelance en Hunteando como tester QA.
+👨‍💻 Me encuentro trabajando como teaching assistants para SoyHenry en un grupo de 20 alumnos aproximadamente.
 
-🤓📚 Actualmente estoy aprendiendo TypeScript e Ingles de manera particular 
+🤓📚 Actualmente estoy aprendiendo TypeScript e Ingles de manera particular.
 
 # Acerca de mi:  💬 
-Me apasiona crear soluciones tecnológicas que mejoren la vida de las personas. Me siento motivado cuando puedo trabajar en equipo y colaborar con otros profesionales para alcanzar nuestros objetivos.
+Me siento motivado cuando puedo trabajar en equipo y colaborar con otros profesionales para alcanzar nuestros objetivos.
 Actualmente, estoy embarcado en un camino de aprendizaje continuo como Full Stack Developer en Henry, y estoy entusiasmado por aplicar mis habilidades y conocimientos en el mundo real.
+Me apasiona viajar, deseo en un futuro poder hacerlo con más frecuencia, en mis tiempos libres me gusta entrenar y los planes al aire libre!
 
 # ~ 𝘁𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝗾𝘂𝗲 𝗺𝗮𝗻𝗲𝗷𝗼 ~ 💻🖱
 * 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝑝𝘵
