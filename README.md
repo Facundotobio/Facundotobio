@@ -14,7 +14,8 @@ Me apasiona viajar, deseo en un futuro poder hacerlo con más frecuencia, en mis
 Busco un equipo de trabajo donde pueda ser auténtico y recibir retroalimentación constante. Es de suma importancia para mí contar con apoyo en momentos de duda y tener oportunidades de crecimiento tanto técnico como personal. Estoy seguro de que en un ambiente así, mi desempeño irá en constante progreso.
 
 # ~ 𝘁𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝗾𝘂𝗲 𝗺𝗮𝗻𝗲𝗷𝗼 ~ 💻🖱
-* 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝑝𝘵
+* 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝑝𝘵 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/71de8592-9798-4fe5-a8c6-356adf2120fe)
+* 𝘛𝘺𝑝𝘦𝘴𝘚𝘤𝘳𝘪𝑝𝘵 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/635df5cb-02ea-43c9-bd86-350bc17caaab)
 * 𝘙𝘦𝘢𝘤𝘵
 * 𝘕𝘦𝘹𝘵.𝘫𝘴
 * 𝘙𝘦𝘥𝘶𝘹
