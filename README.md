@@ -14,7 +14,7 @@ Me apasiona viajar, deseo en un futuro poder hacerlo con más frecuencia, en mis
 Busco un equipo de trabajo donde pueda ser auténtico y recibir retroalimentación constante. Es de suma importancia para mí contar con apoyo en momentos de duda y tener oportunidades de crecimiento tanto técnico como personal. Estoy seguro de que en un ambiente así, mi desempeño irá en constante progreso.
 
 # ~ 𝘁𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝗾𝘂𝗲 𝗺𝗮𝗻𝗲𝗷𝗼 ~ 💻🖱
-<ul>
+
 <li> ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/71de8592-9798-4fe5-a8c6-356adf2120fe) </li>
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/635df5cb-02ea-43c9-bd86-350bc17caaab)
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/80550929-9024-4e8b-a048-29e671d7095c)
@@ -27,7 +27,6 @@ Busco un equipo de trabajo donde pueda ser auténtico y recibir retroalimentaci�
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/fd0309f9-8bc1-4c1b-9466-702ff757d3bc)
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/38d4dd66-fe1c-4e73-8400-e560e11f0359)
 ![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/7653ad66-31e0-4fde-a8db-af5577acb7d3)
-</ul>
 
 
 # Pongamonos en contacto: 
