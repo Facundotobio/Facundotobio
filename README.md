@@ -6,10 +6,12 @@ Mi nombre es Facundo Tobio, soy técnico dental graduado de la UNLP, con conocim
 
 🤓📚 Actualmente estoy aprendiendo TypeScript e Ingles de manera particular.
 
-# Acerca de mi:  💬 
-Me siento motivado cuando puedo trabajar en equipo y colaborar con otros profesionales para alcanzar nuestros objetivos.
+# Acerca de mi:  💬
 Actualmente, estoy embarcado en un camino de aprendizaje continuo como Full Stack Developer en Henry, y estoy entusiasmado por aplicar mis habilidades y conocimientos en el mundo real.
 Me apasiona viajar, deseo en un futuro poder hacerlo con más frecuencia, en mis tiempos libres me gusta entrenar y los planes al aire libre!
+
+# Mis objetivos:  🔮
+Busco un equipo de trabajo donde pueda ser auténtico y recibir retroalimentación constante. Es de suma importancia para mí contar con apoyo en momentos de duda y tener oportunidades de crecimiento tanto técnico como personal. Estoy seguro de que en un ambiente así, mi desempeño irá en constante progreso.
 
 # ~ 𝘁𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝗾𝘂𝗲 𝗺𝗮𝗻𝗲𝗷𝗼 ~ 💻🖱
 * 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝑝𝘵
