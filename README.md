@@ -32,3 +32,5 @@ Busco un equipo de trabajo donde pueda ser auténtico y recibir retroalimentaci�
 
 # Pongamonos en contacto: 
 📫 mi email es ===>  facundohectortobio@gmail.com
+![image](https://github.com/Facundotobio/Facundotobio/assets/109319944/78d4f1a5-ee89-475e-8e7e-c21df8f2d367) ===> https://www.linkedin.com/in/facundo-tobio/
+
