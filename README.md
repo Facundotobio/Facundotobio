@@ -17,14 +17,13 @@
 # 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝗾𝘂𝗲 𝗺𝗮𝗻𝗲𝗷𝗼: 💻🖱
 
 <h2 align="center">𝙇𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨</h2>
-
-<div style="justify-content: space-around; display: flex;">
+<div align="center">
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/71de8592-9798-4fe5-a8c6-356adf2120fe" width="40" height="40"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/635df5cb-02ea-43c9-bd86-350bc17caaab" width="40" height="40"/> </a>
 </div>
 
 <h2 align="center"> 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙏𝙤𝙤𝙡𝙨</h2>
-<div style="justify-content: space-around; display: flex;">
+<div align="center">
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/80550929-9024-4e8b-a048-29e671d7095c"  width="40" height="40"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/ed8eaf7d-f347-4792-a651-1a221ad56a79"  width="40" height="40"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/a0f9128c-b352-43fb-b8fe-4bee305fb247"  width="40" height="40"/> </a>
@@ -33,8 +32,8 @@
 </div>
 
 <h2 align="center"> 𝘽𝙖𝙘𝙠-𝙚𝙣𝙙 𝙏𝙤𝙤𝙡𝙨</h2>
-<div style="justify-content: space-around; display: flex;">
-<a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/2cba8b15-82c2-465a-a8cc-13ecc3a3cb61" margin="20" width="40" height="40"/> </a>
+<div align="center">
+<a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/2cba8b15-82c2-465a-a8cc-13ecc3a3cb61" width="40" height="40"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/acbdbad7-afe3-408b-9a66-392334194dfe"  width="40" height="40"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/d9acd696-1176-4f86-b02d-f3abb86b775e"  width="40" height="40"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/6f1929aa-16fd-4a28-bdb3-376e8ece558b"  width="40" height="40"/> </a>
