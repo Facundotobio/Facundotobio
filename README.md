@@ -37,7 +37,6 @@
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/acbdbad7-afe3-408b-9a66-392334194dfe"  width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/d9acd696-1176-4f86-b02d-f3abb86b775e"  width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/6f1929aa-16fd-4a28-bdb3-376e8ece558b"  width="50" height="50"/> </a>
-<a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/fd0309f9-8bc1-4c1b-9466-702ff757d3bc"  width="50" height="50"/> </a>
 </div>
 
 <br />
