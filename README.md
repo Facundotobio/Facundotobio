@@ -26,7 +26,6 @@
 <h2 align="center"> 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙏𝙤𝙤𝙡𝙨</h2>
 <div align="center">
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/80550929-9024-4e8b-a048-29e671d7095c"  width="50" height="50"/> </a>
-<a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/ed8eaf7d-f347-4792-a651-1a221ad56a79"  width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/a0f9128c-b352-43fb-b8fe-4bee305fb247"  width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/38d4dd66-fe1c-4e73-8400-e560e11f0359"  width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/7653ad66-31e0-4fde-a8db-af5577acb7d3"  width="50" height="50"/> </a>
