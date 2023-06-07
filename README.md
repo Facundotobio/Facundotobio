@@ -40,7 +40,7 @@
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/d9acd696-1176-4f86-b02d-f3abb86b775e"  width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/6f1929aa-16fd-4a28-bdb3-376e8ece558b"  width="50" height="50"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50"/> </a>
-<a><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb5%2FDBeaver_logo.svg%2F1200px-DBeaver_logo.svg.png&tbnid=PKmcJpZHqsCdCM&vet=12ahUKEwjGtJOljLL_AhV8R7gEHeIlB5QQMygAegUIARC_AQ..i&imgrefurl=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ADBeaver_logo.svg&docid=LOkrXj7Mna-l1M&w=1200&h=1200&q=dbeaver%20icono%20svg&ved=2ahUKEwjGtJOljLL_AhV8R7gEHeIlB5QQMygAegUIARC_AQ"  width="50" height="50"/> </a>
+<a><img src="./DBeaver.svg"  width="50" height="50"/> </a>
 </div>
 
 <br />
