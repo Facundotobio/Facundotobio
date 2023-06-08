@@ -40,7 +40,7 @@
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/d9acd696-1176-4f86-b02d-f3abb86b775e"  width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/6f1929aa-16fd-4a28-bdb3-376e8ece558b"  width="50" height="50"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50"/> </a>
-<a><img src="./DBeaver.svg" border-radius="50%" width="50" height="50"/> </a>
+<a><img src="./DBeaver.svg" border-radius="50" width="50" height="50"/> </a>
 </div>
 
 <br />
