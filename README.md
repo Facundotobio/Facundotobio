@@ -46,4 +46,5 @@
 <br />
 <br />
 
-<h4>Conversamos? En la parte superior izquierda encontraras mi redes de contacto, no dudes en enviarme un mensaje, con gusto responderé... 😃</h4>
+<h4>Si te intereso mi perfil, en la parte superior izquierda encontraras mi redes de contacto, no dudes en enviarme un mensaje, con gusto responderé... 😃
+También encontraras mi calendario personal, por si quieres agendar una reunión para conocernos mejor!</h4>
