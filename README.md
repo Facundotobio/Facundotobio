@@ -18,7 +18,7 @@
 
 <h2 align="center">𝙇𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨</h2>
 <div class="image-container" align="center" >
-<a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/71de8592-9798-4fe5-a8c6-356adf2120fe" width="50" height="50" style="margin-right: 15px;"/> </a>
+<a style="margin-right: 15px;"><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/71de8592-9798-4fe5-a8c6-356adf2120fe" width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/635df5cb-02ea-43c9-bd86-350bc17caaab" width="50" height="50" style="margin-right: 15px;"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="50" height="50" style="margin-right: 15px;"/> </a>
 </div>
