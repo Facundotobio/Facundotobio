@@ -57,6 +57,6 @@ También encontraras mi calendario personal, por si quieres agendar una reunión
     }
 
     .image-container img {
-        margin-left: 55px;
+        margin-right: 55px;
     }
 </style>
