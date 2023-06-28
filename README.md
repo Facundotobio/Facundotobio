@@ -56,7 +56,7 @@ También encontraras mi calendario personal, por si quieres agendar una reunión
         align-items: center;
     }
 
-    .image-container img {
+    .image-container a img {
         margin-left: 55px;
     }
 </style>
