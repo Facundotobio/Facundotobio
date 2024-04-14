@@ -43,7 +43,6 @@
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/2cba8b15-82c2-465a-a8cc-13ecc3a3cb61" width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/acbdbad7-afe3-408b-9a66-392334194dfe"  width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/d9acd696-1176-4f86-b02d-f3abb86b775e"  width="50" height="50"/> </a>
-<a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/6f1929aa-16fd-4a28-bdb3-376e8ece558b"  width="50" height="50"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50"/> </a>
 <a><img src="./dbeaver.png" width="50" height="50"/> </a>
 </div>
@@ -51,7 +50,8 @@
 <h2 align="center">𝙏𝙚𝙨𝙩𝙞𝙣𝙜 𝙏𝙤𝙤𝙡𝙨</h2>
 <div class="image-container" align="center" >
 <a ><img src="./cypressLogo.png" width="50" height="50"/> </a>
-<a><img src="./selenium.jpg" width="50" height="50"/> </a>
+<a><img src="./selenium.jpg" width="45" height="45"/> </a>
+<a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/6f1929aa-16fd-4a28-bdb3-376e8ece558b"  width="50" height="50"/> </a>
 </div>
 
 <br />
