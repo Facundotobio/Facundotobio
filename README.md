@@ -48,6 +48,12 @@
 <a><img src="./dbeaver.png" width="50" height="50"/> </a>
 </div>
 
+<h2 align="center">𝙏𝙚𝙨𝙩𝙞𝙣𝙜 𝙏𝙤𝙤𝙡𝙨</h2>
+<div class="image-container" align="center" >
+<a ><img src="./cypressLogo.png" width="50" height="50"/> </a>
+<a><img src="./selenium.jpg" width="50" height="50"/> </a>
+</div>
+
 <br />
 <br />
 
