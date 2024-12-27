@@ -44,7 +44,7 @@
 <div align="center">
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/d9acd696-1176-4f86-b02d-f3abb86b775e"  width="50" height="50"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50"/> </a>
-<a><img src="./Sequelize.webp"  width="50" height="50"/> </a>
+<a><img src="./Sequelize.webp"  width="70" height="70"/> </a>
 </div>
 
 <h2 align="center">𝙏𝙚𝙨𝙩𝙞𝙣𝙜 𝙏𝙤𝙤𝙡𝙨</h2>
