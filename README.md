@@ -28,8 +28,8 @@
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/a0f9128c-b352-43fb-b8fe-4bee305fb247"  width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/38d4dd66-fe1c-4e73-8400-e560e11f0359"  width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/7653ad66-31e0-4fde-a8db-af5577acb7d3"  width="50" height="50"/> </a>
-                            <a><img  src="./chackraUI.png" width="50" height="50" /> </a>
-                            <a><img  src="./figma.png" width="50" height="50"/> </a>
+<a><img  src="./chackraUI.png" width="50" height="50" /> </a>
+<a><img  src="./figma.png" width="40" height="50"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50"/> </a>
 </div>
 
@@ -45,7 +45,16 @@
 <div class="image-container" align="center" >
 <a ><img src="./cypressLogo.png" width="50" height="50"/> </a>
 <a><img src="./selenium.jpg" width="50" height="50"/> </a>
+<a><img src="./swagger.svg" width="50" height="50"/> </a>
+
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/6f1929aa-16fd-4a28-bdb3-376e8ece558b"  width="50" height="50"/> </a>
+</div>
+
+<h2 align="center">𝙂𝙚𝙨𝙩𝙞𝙤𝙣 𝙮 𝙊𝙧𝙜𝙖𝙣𝙞𝙯𝙖𝙘𝙞𝙤́𝙣</h2>
+<div class="image-container" align="center" >
+<a ><img src="./jira.svg" width="50" height="50"/> </a>
+<a><img src="./miro.svg" width="50" height="50"/> </a>
+<a><img src="/ClickUp.png"  width="50" height="50"/> </a>
 </div>
 
 <br />
