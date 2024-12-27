@@ -42,11 +42,10 @@
 </div>
 
 <h2 align="center">𝙏𝙚𝙨𝙩𝙞𝙣𝙜 𝙏𝙤𝙤𝙡𝙨</h2>
-<div class="image-container" align="center" >
+<div align="center" >
 <a ><img src="./cypressLogo.png" width="50" height="50"/> </a>
 <a><img src="./selenium.jpg" width="50" height="50"/> </a>
 <a><img src="./swagger.svg" width="50" height="50"/> </a>
-
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/6f1929aa-16fd-4a28-bdb3-376e8ece558b"  width="50" height="50"/> </a>
 </div>
 
