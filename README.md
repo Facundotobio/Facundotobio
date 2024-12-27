@@ -37,14 +37,11 @@
 <div align="center">
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/2cba8b15-82c2-465a-a8cc-13ecc3a3cb61" width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/acbdbad7-afe3-408b-9a66-392334194dfe"  width="50" height="50"/> </a>
-<a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/d9acd696-1176-4f86-b02d-f3abb86b775e"  width="50" height="50"/> </a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50"/> </a>
+
 </div>
 
 <h2 align="center"> 𝘽𝙖𝙨𝙚𝙨 𝙙𝙚 𝙙𝙖𝙩𝙤𝙨 𝙮 𝙂𝙚𝙨𝙩𝙤𝙧𝙚𝙨</h2>
 <div align="center">
-<a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/2cba8b15-82c2-465a-a8cc-13ecc3a3cb61" width="50" height="50"/> </a>
-<a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/acbdbad7-afe3-408b-9a66-392334194dfe"  width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/d9acd696-1176-4f86-b02d-f3abb86b775e"  width="50" height="50"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50"/> </a>
 </div>
