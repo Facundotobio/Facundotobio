@@ -64,8 +64,8 @@
 <h2 align="center">𝙂𝙚𝙨𝙩𝙞𝙤𝙣 𝙮 𝙊𝙧𝙜𝙖𝙣𝙞𝙯𝙖𝙘𝙞𝙤́𝙣</h2>
 <div class="image-container" align="center" >
 <a ><img src="./jira.svg" width="50" height="50"/> </a>
-<a><img src="./miro.svg" width="50" height="50"/> </a>
 <a><img src="/ClickUp.png"  width="50" height="50"/> </a>
+<a><img src="./miro.svg" width="50" height="50"/> </a>
 </div>
 
 <br />
