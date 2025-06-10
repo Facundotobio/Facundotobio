@@ -22,7 +22,6 @@ También 𝘵𝘳𝘢𝘣𝘢𝘫𝘦 𝘤𝘰𝘯 𝘶𝘯𝘢 𝘢𝘳𝘲𝘶
 <a ><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/71de8592-9798-4fe5-a8c6-356adf2120fe" width="50" height="50"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="50" height="50" /> </a>
 <a><img src="/ts.png"  width="50" height="50" /> </a>
-<a><img src="/sql.png"  width="50" height="50" /> </a>
 <a><img src="/net.png"  width="50" height="50" /> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/2cba8b15-82c2-465a-a8cc-13ecc3a3cb61" width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/acbdbad7-afe3-408b-9a66-392334194dfe"  width="50" height="50"/> </a>
@@ -38,11 +37,6 @@ También 𝘵𝘳𝘢𝘣𝘢𝘫𝘦 𝘤𝘰𝘯 𝘶𝘯𝘢 𝘢𝘳𝘲𝘶
 <a><img  src="./figma.png" width="40" height="50"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50"/> </a>
 </div>
-
-<!-- 
-<h2 align="center"> 𝘽𝙖𝙘𝙠-𝙚𝙣𝙙 𝙏𝙤𝙤𝙡𝙨</h2>
-<div align="center"> -->
-
 </div>
 
 <h2 align="center"> 𝘽𝙖𝙨𝙚𝙨 𝙙𝙚 𝙙𝙖𝙩𝙤𝙨 𝙮 𝙂𝙚𝙨𝙩𝙤𝙧𝙚𝙨</h2>
@@ -50,6 +44,7 @@ También 𝘵𝘳𝘢𝘣𝘢𝘫𝘦 𝘤𝘰𝘯 𝘶𝘯𝘢 𝘢𝘳𝘲𝘶
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/d9acd696-1176-4f86-b02d-f3abb86b775e"  width="50" height="50"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50"/> </a>
 <a><img src="./Sequelize.webp"  width="70" height="70"/> </a>
+<a><img src="/sql.png"  width="50" height="50" /> </a>
 </div>
 
 <h2 align="center">𝙏𝙚𝙨𝙩𝙞𝙣𝙜 𝙏𝙤𝙤𝙡𝙨</h2>
@@ -72,7 +67,7 @@ También 𝘵𝘳𝘢𝘣𝘢𝘫𝘦 𝘤𝘰𝘯 𝘶𝘯𝘢 𝘢𝘳𝘲𝘶
 <br />
 
 # 𝗔𝗰𝘁𝗶𝘃𝗶𝗱𝗮𝗱 𝘆 𝗣𝗿𝗼𝘆𝗲𝗰𝘁𝗼𝘀
-𝘔𝘦 𝘢𝑝𝘢𝘴𝘪𝘰𝘯𝘢 𝘭𝘢 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨í𝘢 𝘺 𝘦𝘭 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰 𝘥𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦, 𝘮𝘦 𝘨𝘶𝘴𝘵𝘢 𝑝𝘢𝘳𝘵𝘪𝘤𝘪𝑝𝘢𝘳 𝘦𝘯 𝘦𝘷𝘦𝘯𝘵𝘰𝘴 𝘥𝘦 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨í𝘢 𝘥𝘰𝘯𝘥𝘦 𝑝𝘶𝘦𝘥𝘰 𝘢𝑝𝘳𝘦𝘯𝘥𝘦𝘳 𝘥𝘦 𝘰𝘵𝘳𝘰𝘴 𝑝𝘳𝘰𝘧𝘦𝘴𝘪𝘰𝘯𝘢𝘭𝘦𝘴 𝘺 𝘤𝘰𝘮𝑝𝘢𝘳𝘵𝘪𝘳 𝘮𝘪𝘴 𝘤𝘰𝘯𝘰𝘤𝘪𝘮𝘪𝘦𝘯𝘵𝘰𝘴. 𝘈𝘤𝘵𝘶𝘢𝘭𝘮𝘦𝘯𝘵𝘦, 𝘦𝘴𝘵𝘰𝘺 𝘵𝘰𝘮𝘢𝘯𝘥𝘰 𝘤𝘭𝘢𝘴𝘦𝘴 𝘥𝘦 𝘪𝘯𝘨𝘭𝘦́𝘴 𝑝𝘢𝘳𝘢 𝘮𝘦𝘫𝘰𝘳𝘢𝘳 𝘦𝘴𝘵𝘢 𝘩𝘢𝘣𝘪𝘭𝘪𝘥𝘢𝘥 𝘺 𝑝𝘰𝘥𝘦𝘳 𝘤𝘰𝘮𝘶𝘯𝘪𝘤𝘢𝘳𝘮𝘦 𝘥𝘦 𝘮𝘢𝘯𝘦𝘳𝘢 𝘮𝘢́𝘴 𝘦𝘧𝘦𝘤𝘵𝘪𝘷𝘢 𝘦𝘯 𝘶𝘯 𝘦𝘯𝘵𝘰𝘳𝘯𝘰 𝘨𝘭𝘰𝘣𝘢𝘭.
+𝘔𝘦 𝘢𝑝𝘢𝘴𝘪𝘰𝘯𝘢 𝘭𝘢 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨í𝘢 𝘺 𝘦𝘭 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰 𝘥𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦, 𝘮𝘦 𝘨𝘶𝘴𝘵𝘢 𝑝𝘢𝘳𝘵𝘪𝘤𝘪𝑝𝘢𝘳 𝘦𝘯 𝘦𝘷𝘦𝘯𝘵𝘰𝘴 𝘥𝘦 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨í𝘢 𝘥𝘰𝘯𝘥𝘦 𝑝𝘶𝘦𝘥𝘰 𝘢𝑝𝘳𝘦𝘯𝘥𝘦𝘳 𝘥𝘦 𝘰𝘵𝘳𝘰𝘴 𝑝𝘳𝘰𝘧𝘦𝘴𝘪𝘰𝘯𝘢𝘭𝘦𝘴 𝘺 𝘤𝘰𝘮𝑝𝘢𝘳𝘵𝘪𝘳 𝘮𝘪𝘴 𝘤𝘰𝘯𝘰𝘤𝘪𝘮𝘪𝘦𝘯𝘵𝘰𝘴. 𝘈𝘤𝘵𝘶𝘢𝘭𝘮𝘦𝘯𝘵𝘦, 𝘦𝘴𝘵𝘰𝘺 𝘵𝘰𝘮𝘢𝘯𝘥𝘰 𝘤𝘭𝘢𝘴𝘦𝘴 𝘥𝘦 𝘪𝘯𝘨𝘭𝘦́𝘴 𝑝𝘢𝘳𝘢 𝑝𝘰𝘥𝘦𝘳 𝘤𝘰𝘮𝘶𝘯𝘪𝘤𝘢𝘳𝘮𝘦 𝘥𝘦 𝘮𝘢𝘯𝘦𝘳𝘢 𝘮𝘢́𝘴 𝘦𝘧𝘦𝘤𝘵𝘪𝘷𝘢 𝘦𝘯 𝘶𝘯 𝘦𝘯𝘵𝘰𝘳𝘯𝘰 𝘨𝘭𝘰𝘣𝘢𝘭.
 <br />
 𝘌𝘴 𝑝𝘰𝘴𝘪𝘣𝘭𝘦 𝘲𝘶𝘦 𝘯𝘰𝘵𝘦𝘯 𝘲𝘶𝘦 𝘮𝘪 𝘩𝘪𝘴𝘵𝘰𝘳𝘪𝘢𝘭 𝘥𝘦 𝘤𝘰𝘮𝘮𝘪𝘵𝘴 𝘺 𝘭𝘢 𝘢𝘤𝘵𝘪𝘷𝘪𝘥𝘢𝘥 𝘦𝘯 𝘮𝘪 𝘮𝘢𝑝𝘢 𝘥𝘦 𝑝𝘶𝘴𝘩'𝘴 𝘯𝘰 𝘳𝘦𝘧𝘭𝘦𝘫𝘢𝘯 𝘶𝘯𝘢 𝘨𝘳𝘢𝘯 𝘤𝘢𝘯𝘵𝘪𝘥𝘢𝘥 𝘥𝘦 𝑝𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴 𝑝𝘦𝘳𝘴𝘰𝘯𝘢𝘭𝘦𝘴. 𝘌𝘴𝘵𝘰 𝘴𝘦 𝘥𝘦𝘣𝘦 𝘢 𝘲𝘶𝘦 𝘤𝘰𝘮𝘦𝘯𝘤𝘦́ 𝘢 𝘵𝘳𝘢𝘣𝘢𝘫𝘢𝘳 𝘦𝘯 𝘦𝘭 𝘢́𝘮𝘣𝘪𝘵𝘰 𝑝𝘳𝘰𝘧𝘦𝘴𝘪𝘰𝘯𝘢𝘭 𝘳𝘢𝑝𝘪𝘥𝘢𝘮𝘦𝘯𝘵𝘦 𝘭𝘶𝘦𝘨𝘰 𝘥𝘦 𝘵𝘦𝘳𝘮𝘪𝘯𝘢𝘳 𝘮𝘪𝘴 𝘦𝘴𝘵𝘶𝘥𝘪𝘰𝘴, 𝘭𝘰 𝘲𝘶𝘦 𝘭𝘪𝘮𝘪𝘵𝘰́ 𝘦𝘭 𝘵𝘪𝘦𝘮𝑝𝘰 𝘥𝘪𝘴𝑝𝘰𝘯𝘪𝘣𝘭𝘦 𝑝𝘢𝘳𝘢 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘢𝘳 𝑝𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴 𝘪𝘯𝘥𝘦𝑝𝘦𝘯𝘥𝘪𝘦𝘯𝘵𝘦𝘴.
 <br />
