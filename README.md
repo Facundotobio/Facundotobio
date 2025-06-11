@@ -53,6 +53,7 @@ También 𝘵𝘳𝘢𝘣𝘢𝘫𝘦 𝘤𝘰𝘯 𝘶𝘯𝘢 𝘢𝘳𝘲𝘶
 <a><img src="./selenium.jpg" width="50" height="50"/> </a>
 <a><img src="./swagger.svg" width="50" height="50"/> </a>
 <a><img src="/playwright.webp"  width="50" height="50" /> </a>
+<a><img src="/JMeter.png"  width="50" height="50" /> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/6f1929aa-16fd-4a28-bdb3-376e8ece558b"  width="50" height="50"/> </a>
 </div>
 
