@@ -1,9 +1,14 @@
-# ¡𝗛𝗼𝗹𝗮, 𝘀𝗲𝗮𝗻 𝗯𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼s!👋
-<h3>Soy Facundo Tobio ~ Full Stack Developer y QA Manual & Automation
-<p align="center">
-  <img src="./assets/github.gif" width="200" />
-</p>
-</h3>
+<table>
+  <tr>
+    <td><strong style="font-size: 1.2em;">¡𝗛𝗼𝗹𝗮, 𝘀𝗲𝗮𝗻 𝗯𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼𝘀!👋</strong></td>
+    <td><img src="./assets/github.gif" width="80"></td>
+  </tr>
+</table>
+
+<h3>Soy Facundo Tobio ~ Full Stack Developer y QA Manual & Automation</h3>
+
+
+<h3>Soy Facundo Tobio ~ Full Stack Developer y QA Manual & Automation</h3>
 
 # 𝗔𝗰𝗲𝗿𝗰𝗮 𝗱𝗲 𝗺𝗶:  💬
 
