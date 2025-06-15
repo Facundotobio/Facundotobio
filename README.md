@@ -1,5 +1,5 @@
-<p align="left" style="display: flex; align-items: center;">
-  <strong style="font-size: 1.5em;">¡𝗛𝗼𝗹𝗮, 𝘀𝗲𝗮𝗻 𝗯𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼𝘀!👋</strong>
+<p align="right" style="display: flex; align-items: center;">
+  #¡𝗛𝗼𝗹𝗮, 𝘀𝗲𝗮𝗻 𝗯𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼𝘀!👋
   <img src="./assets/github.gif" width="80" style="margin-right: 10px;" />
 </p>
 
