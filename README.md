@@ -1,4 +1,4 @@
-<h1><img src="/assets/github.gif" width="50"/>¡𝗛𝗼𝗹𝗮, 𝘀𝗲𝗮𝗻 𝗯𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼s!👋</h1>
+<h1><img src="/assets/github.gif" width="50" style="margin-right: 10px"/>¡𝗛𝗼𝗹𝗮, 𝘀𝗲𝗮𝗻 𝗯𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼s!👋</h1>
 <h3>Soy Facundo Tobio ~ Full Stack Developer y QA Manual & Automation</h3>
 
 # 𝗔𝗰𝗲𝗿𝗰𝗮 𝗱𝗲 𝗺𝗶:  💬
