@@ -1,5 +1,5 @@
-# ¡𝗛𝗼𝗹𝗮, 𝘀𝗲𝗮𝗻 𝗯𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼s!👋 
-<h3>Soy Facundo Tobio ~ Full Stack Developer y QA Manual & Automation <img src="/assets/github.gif" width="60"/></h3>
+# ¡𝗛𝗼𝗹𝗮, 𝘀𝗲𝗮𝗻 𝗯𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼s!👋 <img src="/assets/github.gif" width="30"/>
+<h3>Soy Facundo Tobio ~ Full Stack Developer y QA Manual & Automation <img src="/assets/github.gif" width="30"/></h3>
 <!-- <p align="center" >
   <img src="/assets/github.gif" width="60"/>
 </p> -->
