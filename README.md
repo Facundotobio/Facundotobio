@@ -1,12 +1,7 @@
-<table>
-  <tr>
-    <td><strong style="font-size: 1.2em;">¡𝗛𝗼𝗹𝗮, 𝘀𝗲𝗮𝗻 𝗯𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼𝘀!👋</strong></td>
-    <td><img src="./assets/github.gif" width="80"></td>
-  </tr>
-</table>
-
-<h3>Soy Facundo Tobio ~ Full Stack Developer y QA Manual & Automation</h3>
-
+<p align="left" style="display: flex; align-items: center;">
+  <strong style="font-size: 1.5em;">¡𝗛𝗼𝗹𝗮, 𝘀𝗲𝗮𝗻 𝗯𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼𝘀!👋</strong>
+  <img src="./assets/github.gif" width="80" style="margin-right: 10px;" />
+</p>
 
 <h3>Soy Facundo Tobio ~ Full Stack Developer y QA Manual & Automation</h3>
 
