@@ -1,7 +1,7 @@
 # ¡𝗛𝗼𝗹𝗮, 𝘀𝗲𝗮𝗻 𝗯𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼s!👋 
 <h3>Soy Facundo Tobio ~ Full Stack Developer y QA Manual & Automation</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80"/>
+  <img src="/assets/github.gif" width="100"/>
 </p>
 
 # 𝗔𝗰𝗲𝗿𝗰𝗮 𝗱𝗲 𝗺𝗶:  💬
