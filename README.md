@@ -1,7 +1,7 @@
 # ¡𝗛𝗼𝗹𝗮, 𝘀𝗲𝗮𝗻 𝗯𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼s!👋
 <h3>Soy Facundo Tobio ~ Full Stack Developer y QA Manual & Automation
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjEzZ2prcWtwYmw1MjJvNHR2ZjNrbmdvOXB4dmo0ajMzNDVnbjZhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+  <img src="./assets/github.gif" width="200" />
 </p>
 </h3>
 
@@ -25,8 +25,8 @@ También 𝘵𝘳𝘢𝘣𝘢𝘫𝘦 𝘤𝘰𝘯 𝘶𝘯𝘢 𝘢𝘳𝘲𝘶
 <div class="image-container" align="center" >
 <a ><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/71de8592-9798-4fe5-a8c6-356adf2120fe" width="50" height="50"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="50" height="50" /> </a>
-<a><img src="/ts.png"  width="50" height="50" /> </a>
-<a><img src="/net.png"  width="50" height="50" /> </a>
+<a><img src="/assets/ts.png"  width="50" height="50" /> </a>
+<a><img src="/assets/net.png"  width="50" height="50" /> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/2cba8b15-82c2-465a-a8cc-13ecc3a3cb61" width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/acbdbad7-afe3-408b-9a66-392334194dfe"  width="50" height="50"/> </a>
 </div>
@@ -37,8 +37,8 @@ También 𝘵𝘳𝘢𝘣𝘢𝘫𝘦 𝘤𝘰𝘯 𝘶𝘯𝘢 𝘢𝘳𝘲𝘶
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/a0f9128c-b352-43fb-b8fe-4bee305fb247"  width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/38d4dd66-fe1c-4e73-8400-e560e11f0359"  width="50" height="50"/> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/7653ad66-31e0-4fde-a8db-af5577acb7d3"  width="50" height="50"/> </a>
-<a><img  src="./chackraUI.png" width="50" height="50" /> </a>
-<a><img  src="./figma.png" width="40" height="50"/> </a>
+<a><img  src="/assets/chackraUI.png" width="50" height="50" /> </a>
+<a><img  src="/assets/figma.png" width="40" height="50"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50"/> </a>
 </div>
 </div>
@@ -47,25 +47,25 @@ También 𝘵𝘳𝘢𝘣𝘢𝘫𝘦 𝘤𝘰𝘯 𝘶𝘯𝘢 𝘢𝘳𝘲𝘶
 <div align="center">
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/d9acd696-1176-4f86-b02d-f3abb86b775e"  width="50" height="50"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50"/> </a>
-<a><img src="./Sequelize.webp"  width="70" height="70"/> </a>
-<a><img src="/sql.png"  width="50" height="50" /> </a>
+<a><img src="/assets/Sequelize.webp"  width="70" height="70"/> </a>
+<a><img src="/assets/sql.png"  width="50" height="50" /> </a>
 </div>
 
 <h2 align="center">𝙏𝙚𝙨𝙩𝙞𝙣𝙜 𝙏𝙤𝙤𝙡𝙨</h2>
 <div align="center" >
-<a ><img src="./cypressLogo.png" width="50" height="50"/> </a>
-<a><img src="./selenium.jpg" width="50" height="50"/> </a>
-<a><img src="./swagger.svg" width="50" height="50"/> </a>
-<a><img src="/playwright.webp"  width="50" height="50" /> </a>
-<a><img src="/JMeter.png"  width="90" height="50" /> </a>
+<a ><img src="/assets/cypressLogo.png" width="50" height="50"/> </a>
+<a><img src="/assets/selenium.jpg" width="50" height="50"/> </a>
+<a><img src="/assets/swagger.svg" width="50" height="50"/> </a>
+<a><img src="/assets/playwright.webp"  width="50" height="50" /> </a>
+<a><img src="/assets/JMeter.png"  width="90" height="50" /> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/6f1929aa-16fd-4a28-bdb3-376e8ece558b"  width="50" height="50"/> </a>
 </div>
 
 <h2 align="center">𝙂𝙚𝙨𝙩𝙞𝙤𝙣 𝙮 𝙊𝙧𝙜𝙖𝙣𝙞𝙯𝙖𝙘𝙞𝙤́𝙣</h2>
 <div class="image-container" align="center" >
-<a ><img src="./jira.svg" width="50" height="50"/> </a>
-<a><img src="/ClickUp.png"  width="50" height="50"/> </a>
-<a><img src="./miro.svg" width="50" height="50"/> </a>
+<a ><img src="/assets/jira.svg" width="50" height="50"/> </a>
+<a><img src="/assets/ClickUp.png"  width="50" height="50"/> </a>
+<a><img src="/assets/miro.svg" width="50" height="50"/> </a>
 </div>
 
 <br />
