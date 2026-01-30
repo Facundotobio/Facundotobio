@@ -3,16 +3,20 @@
 
 # 𝗔𝗰𝗲𝗿𝗰𝗮 𝗱𝗲 𝗺𝗶:  💬
 
-Soy Full Stack Developer y QA Automation con más de 3 años de experiencia construyendo soluciones digitales robustas y escalables. Mi pasión por la tecnología me llevó a especializarme en desarrollo de software, donde descubrí que lo que realmente me motiva es crear productos de calidad que impacten realmente en la vida de las personas.
+𝘚𝘰𝘺 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝑝𝘦𝘳 𝘺 𝘘𝘈 𝘈𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘰𝘯 𝘤𝘰𝘯 𝘮𝘢́𝘴 𝘥𝘦 3 𝘢ñ𝘰𝘴 𝘥𝘦 𝘦𝘹𝑝𝘦𝘳𝘪𝘦𝘯𝘤𝘪𝘢 𝘤𝘰𝘯𝘴𝘵𝘳𝘶𝘺𝘦𝘯𝘥𝘰 𝘴𝘰𝘭𝘶𝘤𝘪𝘰𝘯𝘦𝘴 𝘥𝘪𝘨𝘪𝘵𝘢𝘭𝘦𝘴 𝘳𝘰𝘣𝘶𝘴𝘵𝘢𝘴 𝘺 𝘦𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦𝘴. 𝘔𝘪 𝑝𝘢𝘴𝘪𝘰́𝘯 𝑝𝘰𝘳 𝘭𝘢 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨í𝘢 𝘮𝘦 𝘭𝘭𝘦𝘷𝘰́ 𝘢 𝘦𝘴𝑝𝘦𝘤𝘪𝘢𝘭𝘪𝘻𝘢𝘳𝘮𝘦 𝘦𝘯 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰 𝘥𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦, 𝘥𝘰𝘯𝘥𝘦 𝘥𝘦𝘴𝘤𝘶𝘣𝘳í 𝘲𝘶𝘦 𝘭𝘰 𝘲𝘶𝘦 𝘳𝘦𝘢𝘭𝘮𝘦𝘯𝘵𝘦 𝘮𝘦 𝘮𝘰𝘵𝘪𝘷𝘢 𝘦𝘴 𝘤𝘳𝘦𝘢𝘳 𝑝𝘳𝘰𝘥𝘶𝘤𝘵𝘰𝘴 𝘥𝘦 𝘤𝘢𝘭𝘪𝘥𝘢𝘥 𝘲𝘶𝘦 𝘪𝘮𝑝𝘢𝘤𝘵𝘦𝘯 𝘳𝘦𝘢𝘭𝘮𝘦𝘯𝘵𝘦 𝘦𝘯 𝘭𝘢 𝘷𝘪𝘥𝘢 𝘥𝘦 𝘭𝘢𝘴 𝑝𝘦𝘳𝘴𝘰𝘯𝘢𝘴.
 </br>
-A lo largo de mi carrera, he tenido la oportunidad de trabajar en sectores desafiantes como fintech, gestión empresarial y plataformas digitales complejas. Participé en el desarrollo de Progreso y Temba, soluciones financieras que alcanzaron a millones de usuarios, donde implementé integraciones críticas y optimicé flujos de datos complejos. También trabajé en Prikly, una plataforma SaaS de gestión empresarial basada en microservicios, donde profundicé en arquitectura escalable y coordiné múltiples servicios independientes. Mi ultimo logro fue optimizar la experiencia de usuario de Bloom para Fischer Medical, una aplicación desktop desarrollada en C# y WPF para monitoreo de señales fisiológicas.
 </br>
-Lo que me diferencia es que combino el lado técnico del desarrollo full stack con una visión profunda de QA. Trabajo con C#, .NET, React, TypeScript, JavaScript y Node.js, pero también diseño estrategias de testing integral usando Selenium, Cypress y PlayWright. Esta combinación me permite no solo escribir código limpio bajo principios SOLID y clean architecture, sino también garantizar que ese código sea robusto y escalable. Entiendo la arquitectura del software desde adentro, lo que me permite crear automatizaciones más efectivas y detectar problemas antes de que lleguen a producción.
+𝘈 𝘭𝘰 𝘭𝘢𝘳𝘨𝘰 𝘥𝘦 𝘮𝘪 𝘤𝘢𝘳𝘳𝘦𝘳𝘢, 𝘩𝘦 𝘵𝘦𝘯𝘪𝘥𝘰 𝘭𝘢 𝘰𝑝𝘰𝘳𝘵𝘶𝘯𝘪𝘥𝘢𝘥 𝘥𝘦 𝘵𝘳𝘢𝘣𝘢𝘫𝘢𝘳 𝘦𝘯 𝘴𝘦𝘤𝘵𝘰𝘳𝘦𝘴 𝘥𝘦𝘴𝘢𝘧𝘪𝘢𝘯𝘵𝘦𝘴 𝘤𝘰𝘮𝘰 𝘧𝘪𝘯𝘵𝘦𝘤𝘩, 𝘨𝘦𝘴𝘵𝘪𝘰́𝘯 𝘦𝘮𝑝𝘳𝘦𝘴𝘢𝘳𝘪𝘢𝘭 𝘺 𝑝𝘭𝘢𝘵𝘢𝘧𝘰𝘳𝘮𝘢𝘴 𝘥𝘪𝘨𝘪𝘵𝘢𝘭𝘦𝘴 𝘤𝘰𝘮𝑝𝘭𝘦𝘫𝘢𝘴. 𝘗𝘢𝘳𝘵𝘪𝘤𝘪𝑝𝘦́ 𝘦𝘯 𝘦𝘭 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰 𝘥𝘦 𝘗𝘳𝘰𝘨𝘳𝘦𝘴𝘰 𝘺 𝘛𝘦𝘮𝘣𝘢, 𝘴𝘰𝘭𝘶𝘤𝘪𝘰𝘯𝘦𝘴 𝘧𝘪𝘯𝘢𝘯𝘤𝘪𝘦𝘳𝘢𝘴 𝘲𝘶𝘦 𝘢𝘭𝘤𝘢𝘯𝘻𝘢𝘳𝘰𝘯 𝘢 𝘮𝘪𝘭𝘭𝘰𝘯𝘦𝘴 𝘥𝘦 𝘶𝘴𝘶𝘢𝘳𝘪𝘰𝘴, 𝘥𝘰𝘯𝘥𝘦 𝘪𝘮𝑝𝘭𝘦𝘮𝘦𝘯𝘵𝘦́ 𝘪𝘯𝘵𝘦𝘨𝘳𝘢𝘤𝘪𝘰𝘯𝘦𝘴 𝘤𝘳í𝘵𝘪𝘤𝘢𝘴 𝘺 𝘰𝑝𝘵𝘪𝘮𝘪𝘤𝘦́ 𝘧𝘭𝘶𝘫𝘰𝘴 𝘥𝘦 𝘥𝘢𝘵𝘰𝘴 𝘤𝘰𝘮𝑝𝘭𝘦𝘫𝘰𝘴. 𝘛𝘢𝘮𝘣𝘪𝘦́𝘯 𝘵𝘳𝘢𝘣𝘢𝘫𝘦́ 𝘦𝘯 𝘗𝘳𝘪𝘬𝘭𝘺, 𝘶𝘯𝘢 𝑝𝘭𝘢𝘵𝘢𝘧𝘰𝘳𝘮𝘢 𝘚𝘢𝘢𝘚 𝘥𝘦 𝘨𝘦𝘴𝘵𝘪𝘰́𝘯 𝘦𝘮𝑝𝘳𝘦𝘴𝘢𝘳𝘪𝘢𝘭 𝘣𝘢𝘴𝘢𝘥𝘢 𝘦𝘯 𝘮𝘪𝘤𝘳𝘰𝘴𝘦𝘳𝘷𝘪𝘤𝘪𝘰𝘴, 𝘥𝘰𝘯𝘥𝘦 𝑝𝘳𝘰𝘧𝘶𝘯𝘥𝘪𝘤𝘦́ 𝘦𝘯 𝘢𝘳𝘲𝘶𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘢 𝘦𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦 𝘺 𝘤𝘰𝘰𝘳𝘥𝘪𝘯𝘦́ 𝘮𝘶́𝘭𝘵𝘪𝑝𝘭𝘦𝘴 𝘴𝘦𝘳𝘷𝘪𝘤𝘪𝘰𝘴 𝘪𝘯𝘥𝘦𝑝𝘦𝘯𝘥𝘪𝘦𝘯𝘵𝘦𝘴. 𝘔𝘪 𝘶́𝘭𝘵𝘪𝘮𝘰 𝘭𝘰𝘨𝘳𝘰 𝘧𝘶𝘦 𝘦𝘭 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰 𝘥𝘦 𝘭𝘢 𝘵𝘦𝘳𝘤𝘦𝘳𝘢 𝘷𝘦𝘳𝘴𝘪𝘰́𝘯 𝘥𝘦 𝘉𝘭𝘰𝘰𝘮 𝑝𝘢𝘳𝘢 𝘍𝘪𝘴𝘤𝘩𝘦𝘳 𝘔𝘦𝘥𝘪𝘤𝘢𝘭, 𝘶𝘯𝘢 𝘢𝑝𝘭𝘪𝘤𝘢𝘤𝘪𝘰́𝘯 𝘥𝘦𝘴𝘬𝘵𝘰𝑝 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘢𝘥𝘢 𝘦𝘯 𝘊# 𝘺 W𝘗𝘍 𝑝𝘢𝘳𝘢 𝘮𝘰𝘯𝘪𝘵𝘰𝘳𝘦𝘰 𝘥𝘦 𝘴𝘦ñ𝘢𝘭𝘦𝘴 𝘧𝘪𝘴𝘪𝘰𝘭𝘰́𝘨𝘪𝘤𝘢𝘴.
 </br>
-Mi objetivo es continuar evolucionando como desarrollador, profundizando mis conocimientos en automatización y adquiriendo nuevas competencias técnicas que me permitan resolver problemas complejos de manera eficiente. Creo que la mejor forma de crecer es trabajar en proyectos desafiantes, colaborando con equipos talentosos, y nunca dejar de aprender.
 </br>
-Si te interesa conocer más sobre mi trabajo o colaborar en algo emocionante, encontrarás mis redes de contacto en el panel lateral, 𝘯𝘰 𝘥𝘶𝘥𝘦𝘴 𝘦𝘯 𝘦𝘯𝘷𝘪𝘢𝘳𝘮𝘦 𝘶𝘯 𝘮𝘦𝘯𝘴𝘢𝘫𝘦, 𝘤𝘰𝘯 𝘨𝘶𝘴𝘵𝘰 𝘳𝘦𝘴𝑝𝘰𝘯𝘥𝘦𝘳𝘦́.
-𝘛𝘢𝘮𝘣𝘪𝘦́𝘯 𝘦𝘯𝘤𝘰𝘯𝘵𝘳𝘢𝘳𝘢𝘴 𝘮𝘪 𝘤𝘢𝘭𝘦𝘯𝘥𝘢𝘳𝘪𝘰 𝑝𝘦𝘳𝘴𝘰𝘯𝘢𝘭, 𝑝𝘰𝘳 𝘴𝘪 𝘲𝘶𝘪𝘦𝘳𝘦𝘴 𝘢𝘨𝘦𝘯𝘥𝘢𝘳 𝘶𝘯𝘢 𝘳𝘦𝘶𝘯𝘪𝘰́𝘯 𝑝𝘢𝘳𝘢 𝘤𝘰𝘯𝘰𝘤𝘦𝘳𝘯𝘰𝘴 𝘮𝘦𝘫𝘰𝘳!
+𝘓𝘰 𝘲𝘶𝘦 𝘮𝘦 𝘥𝘪𝘧𝘦𝘳𝘦𝘯𝘤𝘪𝘢 𝘦𝘴 𝘲𝘶𝘦 𝘤𝘰𝘮𝘣𝘪𝘯𝘰 𝘦𝘭 𝘭𝘢𝘥𝘰 𝘵𝘦́𝘤𝘯𝘪𝘤𝘰 𝘥𝘦𝘭 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰 𝘧𝘶𝘭𝘭 𝘴𝘵𝘢𝘤𝘬 𝘤𝘰𝘯 𝘶𝘯𝘢 𝘷𝘪𝘴𝘪𝘰́𝘯 𝑝𝘳𝘰𝘧𝘶𝘯𝘥𝘢 𝘥𝘦 𝘘𝘈. 𝘛𝘳𝘢𝘣𝘢𝘫𝘰 𝘤𝘰𝘯 𝘊#, .𝘕𝘌𝘛, 𝘙𝘦𝘢𝘤𝘵, 𝘛𝘺𝑝𝘦𝘚𝘤𝘳𝘪𝑝𝘵, 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝑝𝘵 𝘺 𝘕𝘰𝘥𝘦.𝘫𝘴, 𝑝𝘦𝘳𝘰 𝘵𝘢𝘮𝘣𝘪𝘦́𝘯 𝘥𝘪𝘴𝘦ñ𝘰 𝘦𝘴𝘵𝘳𝘢𝘵𝘦𝘨𝘪𝘢𝘴 𝘥𝘦 𝘵𝘦𝘴𝘵𝘪𝘯𝘨 𝘪𝘯𝘵𝘦𝘨𝘳𝘢𝘭 𝘶𝘴𝘢𝘯𝘥𝘰 𝘚𝘦𝘭𝘦𝘯𝘪𝘶𝘮, 𝘊𝘺𝑝𝘳𝘦𝘴𝘴 𝘺 𝘗𝘭𝘢𝘺W𝘳𝘪𝘨𝘩𝘵. 𝘌𝘴𝘵𝘢 𝘤𝘰𝘮𝘣𝘪𝘯𝘢𝘤𝘪𝘰́𝘯 𝘮𝘦 𝑝𝘦𝘳𝘮𝘪𝘵𝘦 𝘯𝘰 𝘴𝘰𝘭𝘰 𝘦𝘴𝘤𝘳𝘪𝘣𝘪𝘳 𝘤𝘰́𝘥𝘪𝘨𝘰 𝘭𝘪𝘮𝑝𝘪𝘰 𝘣𝘢𝘫𝘰 𝑝𝘳𝘪𝘯𝘤𝘪𝑝𝘪𝘰𝘴 𝘚𝘖𝘓𝘐𝘋 𝘺 𝘤𝘭𝘦𝘢𝘯 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦, 𝘴𝘪𝘯𝘰 𝘵𝘢𝘮𝘣𝘪𝘦́𝘯 𝘨𝘢𝘳𝘢𝘯𝘵𝘪𝘻𝘢𝘳 𝘲𝘶𝘦 𝘦𝘴𝘦 𝘤𝘰́𝘥𝘪𝘨𝘰 𝘴𝘦𝘢 𝘳𝘰𝘣𝘶𝘴𝘵𝘰 𝘺 𝘦𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦. 𝘌𝘯𝘵𝘪𝘦𝘯𝘥𝘰 𝘭𝘢 𝘢𝘳𝘲𝘶𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘢 𝘥𝘦𝘭 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘥𝘦𝘴𝘥𝘦 𝘢𝘥𝘦𝘯𝘵𝘳𝘰, 𝘭𝘰 𝘲𝘶𝘦 𝘮𝘦 𝑝𝘦𝘳𝘮𝘪𝘵𝘦 𝘤𝘳𝘦𝘢𝘳 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘻𝘢𝘤𝘪𝘰𝘯𝘦𝘴 𝘮𝘢́𝘴 𝘦𝘧𝘦𝘤𝘵𝘪𝘷𝘢𝘴 𝘺 𝘥𝘦𝘵𝘦𝘤𝘵𝘢𝘳 𝑝𝘳𝘰𝘣𝘭𝘦𝘮𝘢𝘴 𝘢𝘯𝘵𝘦𝘴 𝘥𝘦 𝘲𝘶𝘦 𝘭𝘭𝘦𝘨𝘶𝘦𝘯 𝘢 𝑝𝘳𝘰𝘥𝘶𝘤𝘤𝘪𝘰́𝘯.
+</br>
+</br>
+𝘔𝘪 𝘰𝘣𝘫𝘦𝘵𝘪𝘷𝘰 𝘦𝘴 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘢𝘳 𝘦𝘷𝘰𝘭𝘶𝘤𝘪𝘰𝘯𝘢𝘯𝘥𝘰 𝘤𝘰𝘮𝘰 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘢𝘥𝘰𝘳, 𝑝𝘳𝘰𝘧𝘶𝘯𝘥𝘪𝘻𝘢𝘯𝘥𝘰 𝘮𝘪𝘴 𝘤𝘰𝘯𝘰𝘤𝘪𝘮𝘪𝘦𝘯𝘵𝘰𝘴 𝘦𝘯 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘻𝘢𝘤𝘪𝘰́𝘯 𝘺 𝘢𝘥𝘲𝘶𝘪𝘳𝘪𝘦𝘯𝘥𝘰 𝘯𝘶𝘦𝘷𝘢𝘴 𝘤𝘰𝘮𝑝𝘦𝘵𝘦𝘯𝘤𝘪𝘢𝘴 𝘵𝘦́𝘤𝘯𝘪𝘤𝘢𝘴 𝘲𝘶𝘦 𝘮𝘦 𝑝𝘦𝘳𝘮𝘪𝘵𝘢𝘯 𝘳𝘦𝘴𝘰𝘭𝘷𝘦𝘳 𝑝𝘳𝘰𝘣𝘭𝘦𝘮𝘢𝘴 𝘤𝘰𝘮𝑝𝘭𝘦𝘫𝘰𝘴 𝘥𝘦 𝘮𝘢𝘯𝘦𝘳𝘢 𝘦𝘧𝘪𝘤𝘪𝘦𝘯𝘵𝘦. 𝘊𝘳𝘦𝘰 𝘲𝘶𝘦 𝘭𝘢 𝘮𝘦𝘫𝘰𝘳 𝘧𝘰𝘳𝘮𝘢 𝘥𝘦 𝘤𝘳𝘦𝘤𝘦𝘳 𝘦𝘴 𝘵𝘳𝘢𝘣𝘢𝘫𝘢𝘳 𝘦𝘯 𝑝𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴 𝘥𝘦𝘴𝘢𝘧𝘪𝘢𝘯𝘵𝘦𝘴, 𝘤𝘰𝘭𝘢𝘣𝘰𝘳𝘢𝘯𝘥𝘰 𝘤𝘰𝘯 𝘦𝘲𝘶𝘪𝑝𝘰𝘴 𝘵𝘢𝘭𝘦𝘯𝘵𝘰𝘴𝘰𝘴, 𝘺 𝘯𝘶𝘯𝘤𝘢 𝘥𝘦𝘫𝘢𝘳 𝘥𝘦 𝘢𝑝𝘳𝘦𝘯𝘥𝘦𝘳.
+</br>
+</br>
+𝘚𝘪 𝘵𝘦 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘢 𝘤𝘰𝘯𝘰𝘤𝘦𝘳 𝘮𝘢́𝘴 𝘴𝘰𝘣𝘳𝘦 𝘮𝘪 𝘵𝘳𝘢𝘣𝘢𝘫𝘰 𝘰 𝘤𝘰𝘭𝘢𝘣𝘰𝘳𝘢𝘳 𝘦𝘯 𝘢𝘭𝘨𝘰 𝘦𝘮𝘰𝘤𝘪𝘰𝘯𝘢𝘯𝘵𝘦, 𝘦𝘯𝘤𝘰𝘯𝘵𝘳𝘢𝘳𝘢́𝘴 𝘮𝘪𝘴 𝘳𝘦𝘥𝘦𝘴 𝘥𝘦 𝘤𝘰𝘯𝘵𝘢𝘤𝘵𝘰 𝘦𝘯 𝘦𝘭 𝑝𝘢𝘯𝘦𝘭 𝘭𝘢𝘵𝘦𝘳𝘢𝘭, no dudes en enviarme un mensaje, con gusto responderé.
+También encontraras mi calendario personal, por si quieres agendar una reunión para conocernos mejor!
 
 # 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝘆 𝗵𝗲𝗿𝗿𝗮𝗺𝗶𝗲𝗻𝘁𝗮𝘀:
 
@@ -62,18 +66,3 @@ Si te interesa conocer más sobre mi trabajo o colaborar en algo emocionante, en
 <a><img src="/assets/ClickUp.png"  width="50" height="50"/> </a>
 <a><img src="/assets/miro.svg" width="50" height="50"/> </a>
 </div>
-
-<br />
-<br />
-
-<!-- # 𝗔𝗰𝘁𝗶𝘃𝗶𝗱𝗮𝗱 𝘆 𝗣𝗿𝗼𝘆𝗲𝗰𝘁𝗼𝘀
-𝘔𝘦 𝘢𝑝𝘢𝘴𝘪𝘰𝘯𝘢 𝘭𝘢 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨í𝘢 𝘺 𝘦𝘭 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰 𝘥𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦, 𝘮𝘦 𝘨𝘶𝘴𝘵𝘢 𝑝𝘢𝘳𝘵𝘪𝘤𝘪𝑝𝘢𝘳 𝘦𝘯 𝘦𝘷𝘦𝘯𝘵𝘰𝘴 𝘥𝘦 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨í𝘢 𝘥𝘰𝘯𝘥𝘦 𝑝𝘶𝘦𝘥𝘰 𝘢𝑝𝘳𝘦𝘯𝘥𝘦𝘳 𝘥𝘦 𝘰𝘵𝘳𝘰𝘴 𝑝𝘳𝘰𝘧𝘦𝘴𝘪𝘰𝘯𝘢𝘭𝘦𝘴 𝘺 𝘤𝘰𝘮𝑝𝘢𝘳𝘵𝘪𝘳 𝘮𝘪𝘴 𝘤𝘰𝘯𝘰𝘤𝘪𝘮𝘪𝘦𝘯𝘵𝘰𝘴. 𝘈𝘤𝘵𝘶𝘢𝘭𝘮𝘦𝘯𝘵𝘦, 𝘦𝘴𝘵𝘰𝘺 𝘵𝘰𝘮𝘢𝘯𝘥𝘰 𝘤𝘭𝘢𝘴𝘦𝘴 𝘥𝘦 𝘪𝘯𝘨𝘭𝘦́𝘴 𝑝𝘢𝘳𝘢 𝑝𝘰𝘥𝘦𝘳 𝘤𝘰𝘮𝘶𝘯𝘪𝘤𝘢𝘳𝘮𝘦 𝘥𝘦 𝘮𝘢𝘯𝘦𝘳𝘢 𝘮𝘢́𝘴 𝘦𝘧𝘦𝘤𝘵𝘪𝘷𝘢 𝘦𝘯 𝘶𝘯 𝘦𝘯𝘵𝘰𝘳𝘯𝘰 𝘭𝘢𝘣𝘰𝘳𝘢𝘭.
-<br />
-𝘌𝘴 𝑝𝘰𝘴𝘪𝘣𝘭𝘦 𝘲𝘶𝘦 𝘯𝘰𝘵𝘦𝘯 𝘲𝘶𝘦 𝘮𝘪 𝘩𝘪𝘴𝘵𝘰𝘳𝘪𝘢𝘭 𝘥𝘦 𝘤𝘰𝘮𝘮𝘪𝘵𝘴 𝘺 𝘭𝘢 𝘢𝘤𝘵𝘪𝘷𝘪𝘥𝘢𝘥 𝘦𝘯 𝘮𝘪 𝘮𝘢𝑝𝘢 𝘥𝘦 𝑝𝘶𝘴𝘩'𝘴 𝘯𝘰 𝘳𝘦𝘧𝘭𝘦𝘫𝘢𝘯 𝘶𝘯𝘢 𝘨𝘳𝘢𝘯 𝘤𝘢𝘯𝘵𝘪𝘥𝘢𝘥 𝘥𝘦 𝑝𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴 𝑝𝘦𝘳𝘴𝘰𝘯𝘢𝘭𝘦𝘴. 𝘌𝘴𝘵𝘰 𝘴𝘦 𝘥𝘦𝘣𝘦 𝘢 𝘲𝘶𝘦 𝘤𝘰𝘮𝘦𝘯𝘤𝘦́ 𝘢 𝘵𝘳𝘢𝘣𝘢𝘫𝘢𝘳 𝘦𝘯 𝘦𝘭 𝘢́𝘮𝘣𝘪𝘵𝘰 𝑝𝘳𝘰𝘧𝘦𝘴𝘪𝘰𝘯𝘢𝘭 𝘳𝘢𝑝𝘪𝘥𝘢𝘮𝘦𝘯𝘵𝘦 𝘭𝘶𝘦𝘨𝘰 𝘥𝘦 𝘵𝘦𝘳𝘮𝘪𝘯𝘢𝘳 𝘮𝘪𝘴 𝘦𝘴𝘵𝘶𝘥𝘪𝘰𝘴, 𝘭𝘰 𝘲𝘶𝘦 𝘭𝘪𝘮𝘪𝘵𝘰́ 𝘦𝘭 𝘵𝘪𝘦𝘮𝑝𝘰 𝘥𝘪𝘴𝑝𝘰𝘯𝘪𝘣𝘭𝘦 𝑝𝘢𝘳𝘢 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘢𝘳 𝑝𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴 𝘪𝘯𝘥𝘦𝑝𝘦𝘯𝘥𝘪𝘦𝘯𝘵𝘦𝘴.
-<br />
-𝘚𝘪𝘯 𝘦𝘮𝘣𝘢𝘳𝘨𝘰, 𝘩𝘦 𝘵𝘦𝘯𝘪𝘥𝘰 𝘭𝘢 𝘰𝑝𝘰𝘳𝘵𝘶𝘯𝘪𝘥𝘢𝘥 𝘥𝘦 𝘵𝘳𝘢𝘣𝘢𝘫𝘢𝘳 𝘦𝘯 𝘯𝘶𝘮𝘦𝘳𝘰𝘴𝘰𝘴 𝑝𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴 𝘴𝘪𝘨𝘯𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘷𝘰𝘴 𝘦𝘯 𝘭𝘢 𝘦𝘮𝑝𝘳𝘦𝘴𝘢 𝘥𝘰𝘯𝘥𝘦 𝘦𝘴𝘵𝘰𝘺 𝘦𝘮𝑝𝘭𝘦𝘢𝘥𝘰. 𝘌𝘴𝘵𝘰𝘴 𝑝𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴 𝘩𝘢𝘯 𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘪𝘥𝘰 𝘢 𝘮𝘪 𝘤𝘳𝘦𝘤𝘪𝘮𝘪𝘦𝘯𝘵𝘰 𝑝𝘳𝘰𝘧𝘦𝘴𝘪𝘰𝘯𝘢𝘭 𝘺 𝘩𝘢𝘯 𝘢𝘮𝑝𝘭𝘪𝘢𝘥𝘰 𝘮𝘪𝘴 𝘩𝘢𝘣𝘪𝘭𝘪𝘥𝘢𝘥𝘦𝘴 𝘴𝘪𝘨𝘯𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘷𝘢𝘮𝘦𝘯𝘵𝘦.
-<br />
-<br />
-<br />
-𝘚𝘪 𝘵𝘦 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘰 𝘮𝘪 𝑝𝘦𝘳𝘧𝘪𝘭, 𝘦𝘯 𝘭𝘢 𝑝𝘢𝘳𝘵𝘦 𝘴𝘶𝑝𝘦𝘳𝘪𝘰𝘳 𝘪𝘻𝘲𝘶𝘪𝘦𝘳𝘥𝘢 𝘦𝘯𝘤𝘰𝘯𝘵𝘳𝘢𝘳𝘢𝘴 𝘮𝘪 𝘳𝘦𝘥𝘦𝘴 𝘥𝘦 𝘤𝘰𝘯𝘵𝘢𝘤𝘵𝘰, 𝘯𝘰 𝘥𝘶𝘥𝘦𝘴 𝘦𝘯 𝘦𝘯𝘷𝘪𝘢𝘳𝘮𝘦 𝘶𝘯 𝘮𝘦𝘯𝘴𝘢𝘫𝘦, 𝘤𝘰𝘯 𝘨𝘶𝘴𝘵𝘰 𝘳𝘦𝘴𝑝𝘰𝘯𝘥𝘦𝘳𝘦́.
-𝘛𝘢𝘮𝘣𝘪𝘦́𝘯 𝘦𝘯𝘤𝘰𝘯𝘵𝘳𝘢𝘳𝘢𝘴 𝘮𝘪 𝘤𝘢𝘭𝘦𝘯𝘥𝘢𝘳𝘪𝘰 𝑝𝘦𝘳𝘴𝘰𝘯𝘢𝘭, 𝑝𝘰𝘳 𝘴𝘪 𝘲𝘶𝘪𝘦𝘳𝘦𝘴 𝘢𝘨𝘦𝘯𝘥𝘢𝘳 𝘶𝘯𝘢 𝘳𝘦𝘶𝘯𝘪𝘰́𝘯 𝑝𝘢𝘳𝘢 𝘤𝘰𝘯𝘰𝘤𝘦𝘳𝘯𝘰𝘴 𝘮𝘦𝘫𝘰𝘳! -->
