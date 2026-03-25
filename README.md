@@ -28,7 +28,7 @@
 
 # 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝘆 𝗵𝗲𝗿𝗿𝗮𝗺𝗶𝗲𝗻𝘁𝗮𝘀:
 
-<table width="100%" border="0" cellspacing="10" cellpadding="20">
+<table width="100%" border="0" cellspacing="30" cellpadding="40">
   <!-- Fila 1: Lenguajes | Frontend -->
   <tr>
     <td width="50%" align="center" valign="top">
