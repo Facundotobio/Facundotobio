@@ -31,9 +31,9 @@
 <table width="100%" border="0" cellspacing="30" cellpadding="40">
   <!-- Fila 1: Lenguajes | Frontend -->
   <tr>
-    <td width="50%" align="center" valign="top" cellspacing="30" cellpadding="40">
+    <td width="50%" align="center" valign="top">
       <h3>𝙇𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨</h3>
-      <img src="/images/ts.png" width="40" height="40" title="TypeScript" />
+      <img src="/images/ts.png" width="40" height="40" title="TypeScript" margin="40" />
       <img src="/images/c.png" width="40" height="40" title="C#" />
       <img src="/images/js.png" width="40" height="40" title="JavaScript" />
     </td>
