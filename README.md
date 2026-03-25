@@ -33,81 +33,81 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>𝙇𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨</h3>
-      <img src="/images/ts.png" width="40" height="40" title="TypeScript"/>&nbsp;&nbsp;
-      <img src="/images/c.png" width="40" height="40" title="C#"/>&nbsp;&nbsp;
-      <img src="/images/js.png" width="40" height="40" title="JavaScript"/>&nbsp;&nbsp;
+      <img src="/images/ts.png" width="40" height="40" title="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/c.png" width="40" height="40" title="C#"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/js.png" width="40" height="40" title="JavaScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td width="50%" align="center" valign="top">
       <h3>𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙</h3>
-      <img src="/images/react.png" width="40" height="40" title="React"/>
-      <img src="/images/next.png" width="40" height="40" title="Next.js" />
-      <img src="/images/redux.svg" width="40" height="40" title="Redux" />
-      <img src="/images/Bootstrap.png" width="40" height="40" title="Bootstrap" />
-      <img src="/images/chackraUI.png" width="40" height="40" title="Chakra UI" />
+      <img src="/images/react.png" width="40" height="40" title="React"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/next.png" width="40" height="40" title="Next.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/redux.svg" width="40" height="40" title="Redux" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/Bootstrap.png" width="40" height="40" title="Bootstrap" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/chackraUI.png" width="40" height="40" title="Chakra UI" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <!-- Fila 2: Backend | Inteligencia Artificial -->
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>𝘽𝙖𝙘𝙠𝙚𝙣𝙙</h3>
-      <img src="/images/net.png" width="40" height="40" title=".NET" />
-      <img src="/images/nodejs.png" width="40" height="40" title="Node.js" />
-      <img src="/images/express.png" width="40" height="40" title="Express.js" />
+      <img src="/images/net.png" width="40" height="40" title=".NET" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/nodejs.png" width="40" height="40" title="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/express.png" width="40" height="40" title="Express.js" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td width="50%" align="center" valign="top">
       <h3>🤖 𝙄𝙣𝙩𝙚𝙡𝙞𝙜𝙚𝙣𝙘𝙞𝙖 𝘼𝙧𝙩𝙞𝙛𝙞𝙘𝙞𝙖𝙡</h3>
-      <img src="/images/cursor.png" width="40" height="40" title="Cursor" />
-      <img src="/images/claudecode.svg" width="40" height="40" title="Claude Code" />
-      <img src="/images/windsurf.png" width="40" height="40" title="Windsurf" />
+      <img src="/images/cursor.png" width="40" height="40" title="Cursor" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/claudecode.svg" width="40" height="40" title="Claude Code" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/windsurf.png" width="40" height="40" title="Windsurf" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <!-- Fila 3: Bases de Datos | Acceso a Datos -->
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>𝘽𝙖𝙨𝙚𝙨 𝙙𝙚 𝘿𝙖𝙩𝙤𝙨</h3>
-      <img src="/images/sqlmysql.svg" width="40" height="40" title="MySQL" />
-      <img src="/images/serversql.png" width="40" height="40" title="SQL Server" />
-      <img src="/images/sqlite.png" width="40" height="40" title="SQLite" />
+      <img src="/images/sqlmysql.svg" width="40" height="40" title="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/serversql.png" width="40" height="40" title="SQL Server" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/sqlite.png" width="40" height="40" title="SQLite" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td width="50%" align="center" valign="top">
       <h3>𝘼𝙘𝙘𝙚𝙨𝙤 𝙖 𝘿𝙖𝙩𝙤𝙨</h3>
-      <img src="/images/entityframework.png" width="40" height="40" title="Entity Framework" />
-      <img src="/images/netlinq.svg" width="40" height="40" title="LINQ" />
-      <img src="/images/dapper.png" width="40" height="40" title="Dapper" />
-      <img src="/images/sequelize.png" width="40" height="40" title="Sequelize" />
+      <img src="/images/entityframework.png" width="40" height="40" title="Entity Framework" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/netlinq.svg" width="40" height="40" title="LINQ" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/dapper.png" width="40" height="40" title="Dapper" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/sequelize.png" width="40" height="40" title="Sequelize" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <!-- Fila 4: Cloud & AWS | Testing & Calidad -->
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>☁️ 𝘾𝙡𝙤𝙪𝙙 & 𝘼𝙒𝙎</h3>
-      <img src="/images/apiGateway.png" width="40" height="40" title="API Gateway" />
-      <img src="/images/s3.svg" width="40" height="40" title="S3" />
-      <img src="/images/ec2.png" width="40" height="40" title="EC2" />
-      <img src="/images/sqs.png" width="40" height="40" title="SQS" />
-      <img src="/images/sns.png" width="40" height="40" title="SNS" />
-      <img src="/images/cloudWatch.png" width="40" height="40" title="CloudWatch" />
+      <img src="/images/apiGateway.png" width="40" height="40" title="API Gateway" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/s3.svg" width="40" height="40" title="S3" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/ec2.png" width="40" height="40" title="EC2" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/sqs.png" width="40" height="40" title="SQS" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/sns.png" width="40" height="40" title="SNS" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/cloudWatch.png" width="40" height="40" title="CloudWatch" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td width="50%" align="center" valign="top">
       <h3>𝙏𝙚𝙨𝙩𝙞𝙣𝙜 & 𝘾𝙖𝙡𝙞𝙙𝙖𝙙</h3>
-      <img src="/images/playwright.webp" width="40" height="40" title="Playwright" />
-      <img src="/images/selenium.jpg" width="40" height="40" title="Selenium" />
-      <img src="/images/cypress.svg" width="40" height="40" title="Cypress" />
-      <img src="/images/postman.webp" width="40" height="40" title="Postman" />
-      <img src="/images/apachejmeter.png" width="40" height="40" title="JMeter" />
-      <img src="/images/sonarqube.png" width="40" height="40" title="SonarQube" />
+      <img src="/images/playwright.webp" width="40" height="40" title="Playwright" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/selenium.jpg" width="40" height="40" title="Selenium" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/cypress.svg" width="40" height="40" title="Cypress" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/postman.webp" width="40" height="40" title="Postman" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/apachejmeter.png" width="40" height="40" title="JMeter" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/sonarqube.png" width="40" height="40" title="SonarQube" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <!-- Fila 5: DevOps & Herramientas de Gestión (columna completa) -->
   <tr>
     <td colspan="2" align="center" valign="top">
       <h3>𝘿𝙚𝙫𝙊𝙥𝙨 & 𝙃𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨 𝙙𝙚 𝙂𝙚𝙨𝙩𝙞𝙤́𝙣</h3>
-      <img src="/images/docker.svg" width="40" height="40" title="Docker" />
-      <img src="/images/git.png" width="40" height="40" title="Git" />
-      <img src="/images/jira.svg" width="40" height="40" title="Jira" />
-      <img src="/images/ClickUp.png" width="40" height="40" title="ClickUp" />
-      <img src="/images/miro.png" width="40" height="40" title="Miro" />
-      <img src="/images/swagger.png" width="40" height="40" title="Swagger" />
+      <img src="/images/docker.svg" width="40" height="40" title="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/git.png" width="40" height="40" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/jira.svg" width="40" height="40" title="Jira" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/ClickUp.png" width="40" height="40" title="ClickUp" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/miro.png" width="40" height="40" title="Miro" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/swagger.png" width="40" height="40" title="Swagger" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
