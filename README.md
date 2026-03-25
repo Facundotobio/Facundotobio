@@ -27,19 +27,24 @@
 𝑝𝘰𝘳 𝘴𝘪 𝘲𝘶𝘦𝘳𝘦́𝘴 𝘢𝘨𝘦𝘯𝘥𝘢𝘳 𝘶𝘯𝘢 𝘳𝘦𝘶𝘯𝘪𝘰́𝘯.
 
 # 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝘆 𝗵𝗲𝗿𝗿𝗮𝗺𝗶𝗲𝗻𝘁𝗮𝘀:
-
+<style>
+  .tech-icon {
+    margin: 10px; /* Esto da 10px de espacio en los 4 lados */
+    vertical-align: middle;
+  }
+</style>
 <table width="100%" border="0" cellspacing="30" cellpadding="40">
   <!-- Fila 1: Lenguajes | Frontend -->
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>𝙇𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨</h3>
-      <img src="/images/ts.png" width="40" height="40" title="TypeScript" margin="40" />
-      <img src="/images/c.png" width="40" height="40" title="C#" />
-      <img src="/images/js.png" width="40" height="40" title="JavaScript" />
+      <img src="/images/ts.png" width="40" height="40" title="TypeScript" style="margin: 10px;"/>
+      <img src="/images/c.png" width="40" height="40" title="C#" style="margin: 10px;"/>
+      <img src="/images/js.png" width="40" height="40" title="JavaScript" style="margin: 10px;"/>
     </td>
     <td width="50%" align="center" valign="top">
       <h3>𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙</h3>
-      <img src="/images/react.png" width="40" height="40" title="React" />
+      <img src="/images/react.png" width="40" height="40" title="React" style="margin: 10px;"/>
       <img src="/images/next.png" width="40" height="40" title="Next.js" />
       <img src="/images/redux.svg" width="40" height="40" title="Redux" />
       <img src="/images/Bootstrap.png" width="40" height="40" title="Bootstrap" />
