@@ -27,21 +27,17 @@
 𝑝𝘰𝘳 𝘴𝘪 𝘲𝘶𝘦𝘳𝘦́𝘴 𝘢𝘨𝘦𝘯𝘥𝘢𝘳 𝘶𝘯𝘢 𝘳𝘦𝘶𝘯𝘪𝘰́𝘯.
 
 # 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝘆 𝗵𝗲𝗿𝗿𝗮𝗺𝗶𝗲𝗻𝘁𝗮𝘀:
-<style>
-    .icono {
-        margin: 20px; /* Espacio entre iconos */
-    }
-</style>
+
 <table width="100%" border="0" cellspacing="30" cellpadding="40">
   <!-- Fila 1: Lenguajes | Frontend -->
   <tr>
-    <td class="icono" width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" cellspacing="30" cellpadding="40">
       <h3>𝙇𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨</h3>
       <img src="/images/ts.png" width="40" height="40" title="TypeScript" />
       <img src="/images/c.png" width="40" height="40" title="C#" />
       <img src="/images/js.png" width="40" height="40" title="JavaScript" />
     </td>
-    <td class="icono" width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙</h3>
       <img src="/images/react.png" width="40" height="40" title="React" />
       <img src="/images/next.png" width="40" height="40" title="Next.js" />
@@ -52,7 +48,7 @@
   </tr>
   <!-- Fila 2: Backend | Inteligencia Artificial -->
   <tr>
-    <td class="icono" width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>𝘽𝙖𝙘𝙠𝙚𝙣𝙙</h3>
       <img src="/images/net.png" width="40" height="40" title=".NET" />
       <img src="/images/nodejs.png" width="40" height="40" title="Node.js" />
@@ -67,7 +63,7 @@
   </tr>
   <!-- Fila 3: Bases de Datos | Acceso a Datos -->
   <tr>
-    <td class="icono" width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>𝘽𝙖𝙨𝙚𝙨 𝙙𝙚 𝘿𝙖𝙩𝙤𝙨</h3>
       <img src="/images/sqlmysql.svg" width="40" height="40" title="MySQL" />
       <img src="/images/serversql.png" width="40" height="40" title="SQL Server" />
@@ -83,7 +79,7 @@
   </tr>
   <!-- Fila 4: Cloud & AWS | Testing & Calidad -->
   <tr>
-    <td class="icono" width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>☁️ 𝘾𝙡𝙤𝙪𝙙 & 𝘼𝙒𝙎</h3>
       <img src="/images/apiGateway.png" width="40" height="40" title="API Gateway" />
       <img src="/images/s3.svg" width="40" height="40" title="S3" />
@@ -92,7 +88,7 @@
       <img src="/images/sns.png" width="40" height="40" title="SNS" />
       <img src="/images/cloudWatch.png" width="40" height="40" title="CloudWatch" />
     </td>
-    <td class="icono" width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>𝙏𝙚𝙨𝙩𝙞𝙣𝙜 & 𝘾𝙖𝙡𝙞𝙙𝙖𝙙</h3>
       <img src="/images/playwright.webp" width="40" height="40" title="Playwright" />
       <img src="/images/selenium.jpg" width="40" height="40" title="Selenium" />
@@ -104,7 +100,7 @@
   </tr>
   <!-- Fila 5: DevOps & Herramientas de Gestión (columna completa) -->
   <tr>
-    <td class="icono" colspan="2" align="center" valign="top">
+    <td colspan="2" align="center" valign="top">
       <h3>𝘿𝙚𝙫𝙊𝙥𝙨 & 𝙃𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨 𝙙𝙚 𝙂𝙚𝙨𝙩𝙞𝙤́𝙣</h3>
       <img src="/images/docker.svg" width="40" height="40" title="Docker" />
       <img src="/images/git.png" width="40" height="40" title="Git" />
