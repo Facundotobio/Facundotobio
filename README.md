@@ -1,5 +1,5 @@
 # ¡𝗛𝗼𝗹𝗮, 𝘀𝗲𝗮𝗻 𝗯𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼𝘀!👋 
-<h3>𝙎𝙤𝙮 𝙁𝙖𝙘𝙪𝙣𝙙𝙤 𝙏𝙤𝙗𝙞𝙤 ~ 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙮 𝙌𝘼 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙤𝙣</h3>
+<h3>𝙎𝙤𝙮 𝙁𝙖𝙘𝙪𝙣𝙙𝙤 𝙏𝙤𝙗𝙞𝙤 ~ 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙮 𝙌𝘼 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙤𝙣 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧</h3>
 
 # 𝗔𝗰𝗲𝗿𝗰𝗮 𝗱𝗲 𝗺𝗶:  💬
 
@@ -27,7 +27,91 @@
 𝑝𝘰𝘳 𝘴𝘪 𝘲𝘶𝘦𝘳𝘦́𝘴 𝘢𝘨𝘦𝘯𝘥𝘢𝘳 𝘶𝘯𝘢 𝘳𝘦𝘶𝘯𝘪𝘰́𝘯.
 
 # 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝘆 𝗵𝗲𝗿𝗿𝗮𝗺𝗶𝗲𝗻𝘁𝗮𝘀:
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+  <!-- Fila 1: Lenguajes | Frontend -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>𝙇𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨</h3>
+      <img src="/images/ts.png" width="30" height="30" title="TypeScript" />
+      <img src="/images/c.png" width="30" height="30" title="C#" />
+      <img src="/images/js.png" width="30" height="30" title="JavaScript" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙</h3>
+      <img src="/images/react.png" width="30" height="30" title="React" />
+      <img src="/images/next.png" width="30" height="30" title="Next.js" />
+      <img src="/images/redux.svg" width="30" height="30" title="Redux" />
+      <img src="/images/Bootstrap.png" width="30" height="30" title="Bootstrap" />
+      <img src="/images/chackraUI.png" width="30" height="30" title="Chakra UI" />
+    </td>
+  </tr>
+  <!-- Fila 2: Backend | Inteligencia Artificial -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>𝘽𝙖𝙘𝙠𝙚𝙣𝙙</h3>
+      <img src="/images/net.png" width="30" height="30" title=".NET" />
+      <img src="/images/nodejs.png" width="30" height="30" title="Node.js" />
+      <img src="/images/express.png" width="30" height="30" title="Express.js" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🤖 𝙄𝙣𝙩𝙚𝙡𝙞𝙜𝙚𝙣𝙘𝙞𝙖 𝘼𝙧𝙩𝙞𝙛𝙞𝙘𝙞𝙖𝙡</h3>
+      <img src="/images/cursor.png" width="30" height="30" title="Cursor" />
+      <img src="/images/claudecode.svg" width="30" height="30" title="Claude Code" />
+      <img src="/images/windsurf.png" width="30" height="30" title="Windsurf" />
+    </td>
+  </tr>
+  <!-- Fila 3: Bases de Datos | Acceso a Datos -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>𝘽𝙖𝙨𝙚𝙨 𝙙𝙚 𝘿𝙖𝙩𝙤𝙨</h3>
+      <img src="/images/sqlmysql.svg" width="30" height="30" title="MySQL" />
+      <img src="/images/serversql.png" width="30" height="30" title="SQL Server" />
+      <img src="/images/sqlite.png" width="30" height="30" title="SQLite" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>𝘼𝙘𝙘𝙚𝙨𝙤 𝙖 𝘿𝙖𝙩𝙤𝙨</h3>
+      <img src="/images/entityframework.png" width="30" height="30" title="Entity Framework" />
+      <img src="/images/netlinq.svg" width="30" height="30" title="LINQ" />
+      <img src="/images/dapper.png" width="30" height="30" title="Dapper" />
+      <img src="/images/sequelize.png" width="30" height="30" title="Sequelize" />
+    </td>
+  </tr>
+  <!-- Fila 4: Cloud & AWS | Testing & Calidad -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>☁️ 𝘾𝙡𝙤𝙪𝙙 & 𝘼𝙒𝙎</h3>
+      <img src="/images/apiGateway.png" width="30" height="30" title="API Gateway" />
+      <img src="/images/s3.svg" width="30" height="30" title="S3" />
+      <img src="/images/ec2.png" width="30" height="30" title="EC2" />
+      <img src="/images/sqs.png" width="30" height="30" title="SQS" />
+      <img src="/images/sns.png" width="30" height="30" title="SNS" />
+      <img src="/images/cloudWatch.png" width="30" height="30" title="CloudWatch" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>𝙏𝙚𝙨𝙩𝙞𝙣𝙜 & 𝘾𝙖𝙡𝙞𝙙𝙖𝙙</h3>
+      <img src="/images/playwright.webp" width="30" height="30" title="Playwright" />
+      <img src="/images/selenium.jpg" width="30" height="30" title="Selenium" />
+      <img src="/images/cypress.svg" width="30" height="30" title="Cypress" />
+      <img src="/images/postman.webp" width="30" height="30" title="Postman" />
+      <img src="/images/apachejmeter.png" width="30" height="30" title="JMeter" />
+      <img src="/images/sonarqube.png" width="30" height="30" title="SonarQube" />
+    </td>
+  </tr>
+  <!-- Fila 5: DevOps & Herramientas de Gestión (columna completa) -->
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>𝘿𝙚𝙫𝙊𝙥𝙨 & 𝙃𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨 𝙙𝙚 𝙂𝙚𝙨𝙩𝙞𝙤́𝙣</h3>
+      <img src="/images/docker.svg" width="30" height="30" title="Docker" />
+      <img src="/images/git.png" width="30" height="30" title="Git" />
+      <img src="/images/jira.svg" width="30" height="30" title="Jira" />
+      <img src="/images/ClickUp.png" width="30" height="30" title="ClickUp" />
+      <img src="/images/miro.png" width="30" height="30" title="Miro" />
+      <img src="/images/swagger.png" width="30" height="30" title="Swagger" />
+    </td>
+  </tr>
+</table>
 
+<!-- 
 <h2 align="center">𝙇𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨, 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨 & 𝙇𝙞𝙗𝙧𝙚𝙧𝙞𝙖𝙨</h2>
 <div class="image-container" align="center" >
 <a ><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/71de8592-9798-4fe5-a8c6-356adf2120fe" width="50" height="50"/> </a>
@@ -61,7 +145,6 @@
 <div align="center" >
 <a ><img src="/assets/cypressLogo.png" width="50" height="50"/> </a>
 <a><img src="/assets/selenium.jpg" width="50" height="50"/> </a>
-<!-- <a><img src="/assets/swagger.svg" width="50" height="50"/> </a> -->
 <a><img src="/assets/playwright.webp"  width="50" height="50" /> </a>
 <a><img src="/assets/JMeter.png"  width="90" height="50" /> </a>
 <a><img src="https://github.com/Facundotobio/Facundotobio/assets/109319944/6f1929aa-16fd-4a28-bdb3-376e8ece558b"  width="50" height="50"/> </a>
@@ -72,4 +155,4 @@
 <a ><img src="/assets/jira.svg" width="50" height="50"/> </a>
 <a><img src="/assets/ClickUp.png"  width="50" height="50"/> </a>
 <a><img src="/assets/miro.svg" width="50" height="50"/> </a>
-</div>
+</div> -->
