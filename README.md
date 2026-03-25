@@ -28,7 +28,7 @@
 
 # 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝘆 𝗵𝗲𝗿𝗿𝗮𝗺𝗶𝗲𝗻𝘁𝗮𝘀:
 
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
+<table width="100%" border="0" cellspacing="10" cellpadding="20">
   <!-- Fila 1: Lenguajes | Frontend -->
   <tr>
     <td width="50%" align="center" valign="top">
@@ -102,12 +102,12 @@
   <tr>
     <td colspan="2" align="center" valign="top">
       <h3>𝘿𝙚𝙫𝙊𝙥𝙨 & 𝙃𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨 𝙙𝙚 𝙂𝙚𝙨𝙩𝙞𝙤́𝙣</h3>
-      <img src="/images/docker.svg" width="30" height="30" title="Docker" />
-      <img src="/images/git.png" width="30" height="30" title="Git" />
-      <img src="/images/jira.svg" width="30" height="30" title="Jira" />
-      <img src="/images/ClickUp.png" width="30" height="30" title="ClickUp" />
-      <img src="/images/miro.png" width="30" height="30" title="Miro" />
-      <img src="/images/swagger.png" width="30" height="30" title="Swagger" />
+      <img src="/images/docker.svg" width="40" height="40" title="Docker" />
+      <img src="/images/git.png" width="40" height="40" title="Git" />
+      <img src="/images/jira.svg" width="40" height="40" title="Jira" />
+      <img src="/images/ClickUp.png" width="40" height="40" title="ClickUp" />
+      <img src="/images/miro.png" width="40" height="40" title="Miro" />
+      <img src="/images/swagger.png" width="40" height="40" title="Swagger" />
     </td>
   </tr>
 </table>
