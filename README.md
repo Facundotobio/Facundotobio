@@ -86,10 +86,8 @@
       <h3>☁️ 𝘾𝙡𝙤𝙪𝙙 & 𝘼𝙒𝙎</h3>
       <img src="/images/apiGateway.png" width="48" height="48" title="API Gateway" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/s3.svg" width="48" height="48" title="S3" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <!-- <img src="/images/ec2.png" width="48" height="48" title="EC2" />&nbsp;&nbsp;&nbsp;&nbsp; -->
       <img src="/images/sqs.png" width="48" height="48" title="SQS" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/sns.png" width="48" height="48" title="SNS" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <!-- <img src="/images/cloudWatch.png" width="48" height="48" title="CloudWatch" />&nbsp;&nbsp;&nbsp;&nbsp; -->
     </td>
     <td width="50%" align="center" valign="top">
       <h3>𝙏𝙚𝙨𝙩𝙞𝙣𝙜 & 𝘾𝙖𝙡𝙞𝙙𝙖𝙙</h3>
@@ -101,15 +99,12 @@
       <img src="/images/sonarqube.png" width="48" height="48" title="SonarQube" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
-  <!-- Fila 5: DevOps & Herramientas de Gestión | Autenticación -->
+  <!-- Fila 5: DevOps & Versionado | Autenticación -->
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>𝘿𝙚𝙫𝙊𝙥𝙨 & 𝙃𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨 𝙙𝙚 𝙂𝙚𝙨𝙩𝙞𝙤́𝙣</h3>
+      <h3>𝘿𝙚𝙫𝙊𝙥𝙨 & Versionado</h3>
       <img src="/images/docker.svg" width="48" height="48" title="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/git.png" width="48" height="48" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="/images/jira.svg" width="48" height="48" title="Jira" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="/images/ClickUp.png" width="48" height="48" title="ClickUp" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="/images/miro.png" width="48" height="48" title="Miro" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/swagger.png" width="48" height="48" title="Swagger" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td width="50%" align="center" valign="top">
