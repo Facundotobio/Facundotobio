@@ -53,6 +53,7 @@
       <img src="/images/net.png" width="50" height="50" title=".NET" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/nodejs.png" width="50" height="50" title="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/express.png" width="50" height="50" title="Express.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/nest.svg" width="50" height="50" title="Nest.js" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td width="50%" align="center" valign="top">
       <h3>🤖 𝙄𝙣𝙩𝙚𝙡𝙞𝙜𝙚𝙣𝙘𝙞𝙖 𝘼𝙧𝙩𝙞𝙛𝙞𝙘𝙞𝙖𝙡</h3>
@@ -75,6 +76,7 @@
       <img src="/images/netlinq.svg" width="50" height="50" title="LINQ" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/dapper.png" width="50" height="50" title="Dapper" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/sequelize.png" width="50" height="50" title="Sequelize" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/typeorm.png"  width="50" height="50" title="Express.js" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <!-- Fila 4: Cloud & AWS | Testing & Calidad -->
