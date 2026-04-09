@@ -44,7 +44,7 @@
       <img src="/images/redux.svg" width="48" height="48" title="Redux" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/Bootstrap.png" width="48" height="48" title="Bootstrap" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/chackraUI.png" width="48" height="48" title="Chakra UI" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="/images/materialui.svg" width="48" height="48" title="Chakra UI" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/material-ui-1.svg" width="48" height="48" title="MaterialUI" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <!-- Fila 2: Backend | Inteligencia Artificial -->
@@ -52,7 +52,7 @@
     <td width="50%" align="center" valign="top">
       <h3>𝘽𝙖𝙘𝙠𝙚𝙣𝙙</h3>
       <img src="/images/net.png" width="48" height="48" title=".NET" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="/images/node.png" width="48" height="48" title="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/node.jpg" width="48" height="48" title="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/express.png" width="48" height="48" title="Express.js" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/nest.svg" width="48" height="48" title="Nest.js" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
