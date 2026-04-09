@@ -53,7 +53,7 @@
       <h3>𝘽𝙖𝙘𝙠𝙚𝙣𝙙</h3>
       <img src="/images/net.png" width="48" height="48" title=".NET" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/nodejs.png" width="48" height="48" title="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="/images/express.png" width="48" height="48" title="Express.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/express2.png" width="48" height="48" title="Express.js" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/nest.svg" width="48" height="48" title="Nest.js" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td width="50%" align="center" valign="top">
