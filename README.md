@@ -44,6 +44,7 @@
       <img src="/images/redux.svg" width="50" height="50" title="Redux" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/Bootstrap.png" width="50" height="50" title="Bootstrap" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/chackraUI.png" width="50" height="50" title="Chakra UI" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/materialui.svg" width="50" height="50" title="Chakra UI" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <!-- Fila 2: Backend | Inteligencia Artificial -->
@@ -100,9 +101,9 @@
       <img src="/images/sonarqube.png" width="50" height="50" title="SonarQube" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
-  <!-- Fila 5: DevOps & Herramientas de Gestión (columna completa) -->
+  <!-- Fila 5: DevOps & Herramientas de Gestión | Autenticación -->
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>𝘿𝙚𝙫𝙊𝙥𝙨 & 𝙃𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨 𝙙𝙚 𝙂𝙚𝙨𝙩𝙞𝙤́𝙣</h3>
       <img src="/images/docker.svg" width="50" height="50" title="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/git.png" width="50" height="50" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -110,6 +111,13 @@
       <img src="/images/ClickUp.png" width="50" height="50" title="ClickUp" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/miro.png" width="50" height="50" title="Miro" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/swagger.png" width="50" height="50" title="Swagger" />&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Autenticación</h3>
+      <img src="/images/auth.png" width="50" height="50" title="Auth0" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/JWT.svg" width="50" height="50" title="JWT" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
