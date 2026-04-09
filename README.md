@@ -83,7 +83,7 @@
   <!-- Fila 4: Cloud & AWS | Testing & Calidad -->
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>☁️ 𝘾𝙡𝙤𝙪𝙙 & 𝘼𝙒𝙎</h3>
+      <h3>𝘾𝙡𝙤𝙪𝙙 & 𝘼𝙒𝙎</h3>
       <img src="/images/apiGateway.png" width="48" height="48" title="API Gateway" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/s3.svg" width="48" height="48" title="S3" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/sqs.png" width="48" height="48" title="SQS" />&nbsp;&nbsp;&nbsp;&nbsp;
