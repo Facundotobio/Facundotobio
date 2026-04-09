@@ -43,8 +43,9 @@
       <img src="/images/next.png" width="48" height="48" title="Next.js" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/redux.svg" width="48" height="48" title="Redux" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/Bootstrap.png" width="48" height="48" title="Bootstrap" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="/images/chackraUI.png" width="48" height="48" title="Chakra UI" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="/images/material-ui-1.svg" width="48" height="48" title="MaterialUI" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/tailwind.png" width="48" height="48" title="Tailwind" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <!-- <img src="/images/chackraUI.png" width="48" height="48" title="Chakra UI" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/material-ui-1.svg" width="48" height="48" title="MaterialUI" />&nbsp;&nbsp;&nbsp;&nbsp; -->
     </td>
   </tr>
   <!-- Fila 2: Backend | Inteligencia Artificial -->
@@ -96,16 +97,16 @@
       <img src="/images/cypress.svg" width="48" height="48" title="Cypress" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/postman.webp" width="48" height="48" title="Postman" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/apachejmeter.png" width="48" height="48" title="JMeter" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="/images/sonarqube.png" width="48" height="48" title="SonarQube" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <!-- Fila 5: DevOps & Versionado | Autenticación -->
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>𝘿𝙚𝙫𝙊𝙥𝙨 & 𝙑𝙚𝙧𝙨𝙞𝙤𝙣𝙖𝙙𝙤</h3>
+      <h3>𝘿𝙚𝙫𝙊𝙥𝙨, 𝙑𝙚𝙧𝙨𝙞𝙤𝙣𝙖𝙙𝙤 y Observabilidad</h3>
       <img src="/images/docker.svg" width="48" height="48" title="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/git.png" width="48" height="48" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/swagger.png" width="48" height="48" title="Swagger" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="/images/sonarqube.png" width="48" height="48" title="SonarQube" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td width="50%" align="center" valign="top">
       <h3>𝘼𝙪𝙩𝙚𝙣𝙩𝙞𝙘𝙖𝙘𝙞𝙤́𝙣</h3>
