@@ -86,10 +86,10 @@
       <h3>☁️ 𝘾𝙡𝙤𝙪𝙙 & 𝘼𝙒𝙎</h3>
       <img src="/images/apiGateway.png" width="48" height="48" title="API Gateway" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/s3.svg" width="48" height="48" title="S3" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="/images/ec2.png" width="48" height="48" title="EC2" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <!-- <img src="/images/ec2.png" width="48" height="48" title="EC2" />&nbsp;&nbsp;&nbsp;&nbsp; -->
       <img src="/images/sqs.png" width="48" height="48" title="SQS" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/images/sns.png" width="48" height="48" title="SNS" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="/images/cloudWatch.png" width="48" height="48" title="CloudWatch" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <!-- <img src="/images/cloudWatch.png" width="48" height="48" title="CloudWatch" />&nbsp;&nbsp;&nbsp;&nbsp; -->
     </td>
     <td width="50%" align="center" valign="top">
       <h3>𝙏𝙚𝙨𝙩𝙞𝙣𝙜 & 𝘾𝙖𝙡𝙞𝙙𝙖𝙙</h3>
